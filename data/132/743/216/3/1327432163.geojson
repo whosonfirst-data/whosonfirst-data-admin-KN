@@ -1,0 +1,72 @@
+{
+  "id": 1327432163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.56109,17.14157,-62.56109,17.14157",
+    "geom:latitude":17.14157,
+    "geom:longitude":-62.56109,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zion",
+    "gn:cc2":"KN",
+    "gn:country_code":"KN",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575076,
+    "gn:latitude":17.14157,
+    "gn:longitude":-62.56109,
+    "gn:modification_date":"2017-07-01",
+    "gn:name":"Zion",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zion Village",
+        "Zion Hill Village",
+        "Zion Hill",
+        "Zion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575076
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"db0011bef352fc700f43fd6189d38b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":1327432163,
+            "region_id":85673125
+        }
+    ],
+    "wof:id":1327432163,
+    "wof:lastmodified":1537654144,
+    "wof:name":"Zion",
+    "wof:parent_id":85673125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.56109,
+    17.14157,
+    -62.56109,
+    17.14157
+],
+  "geometry": {"coordinates":[-62.56109,17.14157],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344266547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.75506,17.36988,-62.75506,17.36988",
+    "geom:latitude":17.36988,
+    "geom:longitude":-62.75506,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Molineux",
+    "gn:country_code":"KN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575288,
+    "gn:latitude":17.36988,
+    "gn:longitude":-62.75506,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Molineux",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molyneux",
+        "Molineaux",
+        "Molineux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575288
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"5a294b7e2b07d2fcbb470e696ebd4303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":1344266547,
+            "region_id":85673111
+        }
+    ],
+    "wof:id":1344266547,
+    "wof:lastmodified":1537654146,
+    "wof:name":"Molineux",
+    "wof:parent_id":85673111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.75506,
+    17.36988,
+    -62.75506,
+    17.36988
+],
+  "geometry": {"coordinates":[-62.75506,17.36988],"type":"Point"}
+}

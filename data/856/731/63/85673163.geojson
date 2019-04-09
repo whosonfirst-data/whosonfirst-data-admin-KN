@@ -1,0 +1,300 @@
+{
+  "id": 85673163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002522,
+    "geom:area_square_m":29770553.088664,
+    "geom:bbox":"-62.831613736,17.2980170054,-62.7544236261,17.3667133063",
+    "geom:latitude":17.330263,
+    "geom:longitude":-62.793756,
+    "gn:population":2045,
+    "iso:country":"KN",
+    "label:eng_x_preferred_longname":[
+        "Saint Thomas Middle Island Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":17.332342,
+    "lbl:longitude":-62.797557,
+    "mps:latitude":17.332342,
+    "mps:longitude":-62.797557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0642\u062f\u064a\u0633 \u062a\u0648\u0645\u0627\u0633 \u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09a5\u09ae\u09be\u09b8 \u09ae\u09bf\u09a1\u09b2 \u09a6\u09cd\u09ac\u09c0\u09aa \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u6258\u99ac\u65af\u7c73\u5fb7\u827e\u862d\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Thomas Middle Island"
+    ],
+    "name:deu_x_preferred":[
+        "Saint Thomas Middle Island"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Thomas Middle Island"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Thomas Middle Island"
+    ],
+    "name:eng_x_variant":[
+        "St Thomas Middle Island",
+        "St. Thomas Middle Island",
+        "Saint Thomas Middle Island Parish",
+        "Middle Island"
+    ],
+    "name:fin_x_preferred":[
+        "Saint Thomas Middle Islandin kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Thomas Middle Island"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-Thomas Middle Island"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Thomas Middle Island"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b5\u03bd\u03c4 \u03a4\u03cc\u03bc\u03b1\u03c2 \u039c\u03af\u03bd\u03c4\u03bb \u0386\u03ca\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aa5\u0acb\u0aae\u0ab8 \u0aae\u0abf\u0aa1\u0ab2 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0925\u0949\u092e\u0938 \u092e\u093f\u0921\u0932 \u0906\u0907\u0932\u0948\u0902\u0921 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint Thomas Middle Island"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Saint Thomas Middle Island"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30c8\u30fc\u30de\u30b9\u30fb\u30df\u30c9\u30eb\u30fb\u30a2\u30a4\u30e9\u30f3\u30c9\u6559\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0ca5\u0cbe\u0cae\u0cb8\u0ccd \u0cae\u0cbf\u0ca1\u0cb2\u0ccd \u0c90\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\ud1a0\uba38\uc2a4\ubbf8\ub4e4\uc544\uc77c\ub79c\ub4dc \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Senttomasa Midlailendas pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ventojo Tomo Midl Ailendo parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0925\u0949\u092e\u0938 \u092e\u093f\u0921\u0932 \u0906\u092f\u0932\u0902\u0921 \u092a\u0945\u0930\u0940\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Saint Thomas Middle Island Parish"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Thomas Middle Island"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Thomas Middle Island prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint Thomas Middle Island prestegjeld"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Thomas Middle Island"
+    ],
+    "name:por_x_preferred":[
+        "Saint Thomas Middle Island"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0422\u043e\u043c\u0430\u0441-\u041c\u0438\u0434\u043b-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0dad\u0ddd\u0db8\u0dc3\u0dca \u0db8\u0dd2\u0da9\u0dca\u0dbd\u0dca \u0daf\u0dd6\u0db4\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint Thomas Middle Island"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Thomas Middle Island"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0ba4\u0bbe\u0bae\u0bb8\u0bcd  \u0bae\u0bbf\u0b9f\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd  \u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c25\u0c3e\u0c2e\u0c38\u0c4d \u0c2e\u0c3f\u0c21\u0c3f\u0c32\u0c4d \u0c10\u0c32\u0c3e\u0c02\u0c21\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e42\u0e17\u0e21\u0e31\u0e2a\u0e21\u0e34\u0e14\u0e40\u0e14\u0e34\u0e25\u0e44\u0e2d\u0e41\u0e25\u0e19\u0e14\u0e4c \u0e41\u0e1e\u0e23\u0e34\u0e0a"
+    ],
+    "name:tur_x_preferred":[
+        "Saint Thomas Middle Island"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u0422\u043e\u043c\u0430\u0441-\u041c\u0456\u0434\u043b-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u062a\u06be\u0627\u0645\u0633 \u0645\u0688\u0644 \u0622\u0626\u0644\u06cc\u0646\u0688 \u067e\u06cc\u0631\u0634"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Saint Thomas Middle Island"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u6258\u99ac\u65af\u7c73\u5fb7\u827e\u862d\u5340"
+    ],
+    "ne:abbrev":"TMI",
+    "ne:adm0_a3":"KNA",
+    "ne:adm0_label":"8",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"KNA-5111",
+    "ne:adm1_code":"KNA-5111",
+    "ne:admin":"Saint Kitts and Nevis",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"KN.TM",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5111",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SC13",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Kitts and Nevis",
+    "ne:gn_a1_code":"KN.13",
+    "ne:gn_id":"3575164",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint Thomas Middle Island",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SC13",
+    "ne:gns_id":"-1359330",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Thomas Middle Island",
+    "ne:gns_region":"",
+    "ne:gu_a3":"KNA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"KN-13",
+    "ne:iso_a2":"KN",
+    "ne:labelrank":"20",
+    "ne:latitude":"17.32790000000",
+    "ne:longitude":"-62.79430000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Saint Thomas Middle Island",
+    "ne:name_alt":"",
+    "ne:name_len":26,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"TM",
+    "ne:provnum_ne":"0",
+    "ne:region":"Saint Kitts",
+    "ne:region_cod":"KN-K",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"KNA",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346976,
+    "ne:woe_label":"Saint Thomas Middle Island, KN, Saint Kitts and Nevis",
+    "ne:woe_name":"Saint Thomas Middle Island",
+    "qs:a0":"Saint Kitts and Nevis",
+    "qs:a0_lc":"KN",
+    "qs:a1":"Saint Thomas Middle Island",
+    "qs:a1_lc":"KNA-5111",
+    "qs:a1r":"Saint Kitts",
+    "qs:a1r_lc":"KN-K",
+    "qs:adm0":"Saint Kitts and Nevis",
+    "qs:adm0_a3":"KNA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2001-05-14",
+    "statoids:area_km":"24",
+    "statoids:area_mi":"9",
+    "statoids:as_of_date":"2001-05-14",
+    "statoids:capital":"Middle Island",
+    "statoids:country":"KN",
+    "statoids:gec":"SC13",
+    "statoids:hasc":"KN.TM",
+    "statoids:iso":"13",
+    "statoids:name":"Saint Thomas Middle Island",
+    "statoids:population":"2332",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"KN-13",
+    "wd:wordcount":500,
+    "wof:belongsto":[
+        102191575,
+        85632551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SC13",
+        "gn:id":3575164,
+        "gp:id":2346976,
+        "hasc:id":"KN.TM",
+        "iso:id":"KN-13",
+        "qs:id":1047392,
+        "unlc:id":"KN-13",
+        "wd:id":"Q1752101",
+        "wk:page":"Saint Thomas Middle Island Parish"
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"44bf03e0086b69eceff5f868c74e0113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "region_id":85673163
+        }
+    ],
+    "wof:id":85673163,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550395,
+    "wof:name":"Saint Thomas Middle Island",
+    "wof:parent_id":85632551,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":2332,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:shortcode":"TM",
+    "wof:subdivision":"KN-13",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.83161373598512,
+    17.29801700538053,
+    -62.75442362614939,
+    17.36671330627411
+],
+  "geometry": {"coordinates":[[[-62.78750858525297,17.34984646464267],[-62.78037261410481,17.34206176843594],[-62.77907516398761,17.33557452234641],[-62.75442362614939,17.33103344963405],[-62.75831597470244,17.31741023149704],[-62.76610067090917,17.31351788294398],[-62.76934429440365,17.30508446257795],[-62.77162512529924,17.29801700538053],[-62.78872636622879,17.30467357042897],[-62.83161373598512,17.33014557505828],[-62.82448589201027,17.34141304427663],[-62.81929609423929,17.35309008813709],[-62.81475502152699,17.35309008813709],[-62.80761905037883,17.36671330627411],[-62.78750858525297,17.34984646464267]]],"type":"Polygon"}
+}

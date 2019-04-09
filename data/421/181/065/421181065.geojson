@@ -1,0 +1,81 @@
+{
+  "id": 421181065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.78333,17.3,-62.78333,17.3",
+    "geom:latitude":17.3,
+    "geom:longitude":-62.78333,
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Challengers"
+    ],
+    "name:eng_x_preferred":[
+        "Challengers"
+    ],
+    "name:unk_x_variant":[
+        "Challengers Village"
+    ],
+    "qs:gn_country":"KN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3575483,
+    "qs:gn_pop":0,
+    "qs:name":"Challengers",
+    "qs:name_adm0":"Saint Kitts and Nevis",
+    "qs:name_adm1":"Trinity Palmetto Point",
+    "qs:photos":194,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":194,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":475023,
+    "qs:woe_adm0":23424940,
+    "qs:woe_id":161869,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575483,
+        "gp:id":161869,
+        "qs:id":475023,
+        "wd:id":"Q5068968",
+        "wk:page":"Challengers, Saint Kitts and Nevis"
+    },
+    "wof:country":"KN",
+    "wof:created":1459009283,
+    "wof:geomhash":"53b7d6ccbea368a2a222e6253509f34d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632551,
+            "locality_id":421181065
+        }
+    ],
+    "wof:id":421181065,
+    "wof:lastmodified":1514468982,
+    "wof:name":"Challengers",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.78333,
+    17.3,
+    -62.78333,
+    17.3
+],
+  "geometry": {"coordinates":[-62.78333,17.3],"type":"Point"}
+}

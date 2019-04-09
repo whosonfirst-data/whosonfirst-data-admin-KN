@@ -1,0 +1,300 @@
+{
+  "id": 85673111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001803,
+    "geom:area_square_m":21283105.047883,
+    "geom:bbox":"-62.7875085853,17.3310334496,-62.7305086511,17.3869965294",
+    "geom:latitude":17.356413,
+    "geom:longitude":-62.761057,
+    "gn:population":1801,
+    "iso:country":"KN",
+    "label:eng_x_preferred_longname":[
+        "Christ Church Nichola Town Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":17.355761,
+    "lbl:longitude":-62.760625,
+    "mps:latitude":17.355761,
+    "mps:longitude":-62.760625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0646\u064a\u0633\u0629 \u0627\u0644\u0645\u0633\u064a\u062d\u060c \u0623\u0628\u0631\u0634\u064a\u0629 \u0645\u062f\u064a\u0646\u0629 \u0646\u064a\u0643\u0648\u0644\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0996\u09cd\u09b0\u09bf\u09b8\u09cd\u099f \u099a\u09be\u09b0\u09cd\u099a \u09a8\u09bf\u0996\u09cb\u09b2\u09be \u099f\u09be\u0989\u09a8 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:chi_x_preferred":[
+        "\u57fa\u7763\u6559\u6703\u5c3c\u53e4\u62c9\u93ae\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:deu_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:dut_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:eng_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:fin_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:fra_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:fre_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:ger_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03c1\u03ac\u03b9\u03c3\u03c4 \u03a4\u03c3\u03b5\u03c1\u03c4\u03c2 \u039d\u03af\u03ba\u03bf\u03bb\u03b1 \u03a4\u03ac\u03bf\u03c5\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acd\u0ab0\u0abf\u0ab8\u0acd\u0a9f \u0a9a\u0ab0\u0acd\u0a9a \u0aa8\u0abf\u0a95\u0acb\u0ab2\u0abe \u0a9f\u0abe\u0a89\u0aa8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u093e\u0907\u0938\u094d\u091f \u091a\u0930\u094d\u091a \u0928\u093f\u0915\u094b\u0932\u093e \u091f\u093e\u0909\u0928 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Christ Church Nichola Town"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Christ Church Nichola Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30ea\u30b9\u30c8\u30fb\u30c1\u30e3\u30fc\u30c1\u30fb\u30cb\u30b3\u30e9\u30fb\u30bf\u30a6\u30f3\u6559\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0cb0\u0cc8\u0cb8\u0ccd\u0c9f\u0ccd \u0c9a\u0cb0\u0ccd\u0c9a\u0ccd \u0ca8\u0cbf\u0c95\u0ccb\u0cb2\u0cbe \u0c9f\u0ccc\u0ca8\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub77c\uc774\uc2a4\ud2b8\ucc98\uce58\ub2c8\uceec\ub77c\ud0c0\uc6b4 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Kraist\u010d\u0113r\u010da Nikoltaunas pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "Nikola Tauno Kristaus Ba\u017eny\u010dios parapija"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0440\u0430\u0458\u0441\u0442 \u0427\u0440\u0447 \u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0430\u0443\u043d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0930\u093e\u0907\u0938\u094d\u091f \u091a\u0930\u094d\u091a \u0928\u093f\u0915\u094b\u0932\u093e \u091f\u093e\u0909\u0928 \u092a\u0945\u0930\u093f\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Christ Church Nichola Town Parish"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u0430\u0458\u0441\u0442 \u0427\u0440\u0447 \u041d\u0438\u043a\u043e\u043b\u0430 \u0422\u0430\u0443\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:nob_x_preferred":[
+        "Christ Church Nichola Town prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Christ Church Nichola Town prestegjeld"
+    ],
+    "name:pol_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:por_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0439\u0441\u0442-\u0427\u0435\u0440\u0447-\u041d\u0438\u043a\u043e\u043b\u0430-\u0422\u0430\u0443\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u200d\u0dbb\u0dba\u0dd2\u0dc3\u0dca\u0da7\u0dca \u0da0\u0dbb\u0dca\u0da0\u0dca \u0db1\u0dd2\u0d9a\u0ddc\u0dbd\u0dcf \u0da7\u0dc0\u0dd4\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Christ Church Nichola Town"
+    ],
+    "name:swe_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb1\u0bbf\u0bb8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd  \u0ba8\u0bc0\u0b9a\u0bcb\u0bb2\u0bbe \u0ba8\u0b95\u0bb0\u0bae\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c30\u0c48\u0c38\u0c4d\u0c1f\u0c4d \u0c1a\u0c30\u0c4d\u0c1a\u0c4d \u0c28\u0c3f\u0c15\u0c4b\u0c32\u0c3e \u0c1f\u0c4c\u0c28\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e44\u0e04\u0e23\u0e2a\u0e15\u0e4c\u0e40\u0e0a\u0e34\u0e23\u0e4c\u0e0a\u0e19\u0e34\u0e42\u0e04\u0e25\u0e32\u0e17\u0e32\u0e27\u0e19\u0e4c \u0e41\u0e1e\u0e23\u0e34\u0e0a"
+    ],
+    "name:tur_x_preferred":[
+        "Christ Church Nichola Town"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u041a\u0440\u0430\u0439\u0441\u0442-\u0427\u0435\u0440\u0447-\u041d\u0456\u043a\u043e\u043b\u0430-\u0422\u0430\u0443\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u0627\u0626\u0633\u0679 \u0686\u0631\u0686 \u0646\u06cc\u06a9\u0648\u0644\u0627 \u0679\u0627\u0624\u0646 \u067e\u06cc\u0631\u0634"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Christ Church Nichola Town"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u7763\u6559\u6703\u5c3c\u53e4\u62c9\u93ae\u5340"
+    ],
+    "ne:abbrev":"CCN",
+    "ne:adm0_a3":"KNA",
+    "ne:adm0_label":"8",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"KNA-5099",
+    "ne:adm1_code":"KNA-5099",
+    "ne:admin":"Saint Kitts and Nevis",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"KN.CC",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5099",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SC01",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Kitts and Nevis",
+    "ne:gn_a1_code":"KN.01",
+    "ne:gn_id":"3575476",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Christ Church Nichola Town",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SC01",
+    "ne:gns_id":"-1359018",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Christ Church Nichola Town",
+    "ne:gns_region":"",
+    "ne:gu_a3":"KNA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"KN-01",
+    "ne:iso_a2":"KN",
+    "ne:labelrank":"20",
+    "ne:latitude":"17.36400000000",
+    "ne:longitude":"-62.75820000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Christ Church Nichola Town",
+    "ne:name_alt":"",
+    "ne:name_len":26,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CC",
+    "ne:provnum_ne":"0",
+    "ne:region":"Saint Kitts",
+    "ne:region_cod":"KN-K",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"KNA",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346964,
+    "ne:woe_label":"Christ Church Nichola Town, KN, Saint Kitts and Nevis",
+    "ne:woe_name":"Christ Church Nichola Town",
+    "qs:a0":"Saint Kitts and Nevis",
+    "qs:a0_lc":"KN",
+    "qs:a1":"Christ Church Nichola Town",
+    "qs:a1_lc":"KNA-5099",
+    "qs:a1r":"Saint Kitts",
+    "qs:a1r_lc":"KN-K",
+    "qs:adm0":"Saint Kitts and Nevis",
+    "qs:adm0_a3":"KNA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2001-05-14",
+    "statoids:area_km":"19",
+    "statoids:area_mi":"7",
+    "statoids:as_of_date":"2001-05-14",
+    "statoids:capital":"Mansion",
+    "statoids:country":"KN",
+    "statoids:gec":"SC01",
+    "statoids:hasc":"KN.CC",
+    "statoids:iso":"01",
+    "statoids:name":"Christ Church Nichola Town",
+    "statoids:population":"2059",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"KN-01",
+    "wd:wordcount":134,
+    "wof:belongsto":[
+        102191575,
+        85632551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SC01",
+        "gn:id":3575476,
+        "gp:id":2346964,
+        "hasc:id":"KN.CC",
+        "iso:id":"KN-01",
+        "qs:id":232241,
+        "unlc:id":"KN-01",
+        "wd:id":"Q176164",
+        "wk:page":"Christ Church Nichola Town Parish"
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"8b7adaf7d53e945667c673209521f2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "region_id":85673111
+        }
+    ],
+    "wof:id":85673111,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550394,
+    "wof:name":"Christ Church Nichola Town",
+    "wof:parent_id":85632551,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":2059,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:shortcode":"CC",
+    "wof:subdivision":"KN-01",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.78750858525297,
+    17.33103344963405,
+    -62.73050865105336,
+    17.3869965293664
+],
+  "geometry": {"coordinates":[[[-62.73050865105336,17.36461441452366],[-62.73755678541727,17.36087478434388],[-62.741449133071,17.35438753735502],[-62.74599020578336,17.34400794271244],[-62.74534148072473,17.33103344963405],[-62.75442362614939,17.33103344963405],[-62.77907516398761,17.33557452234641],[-62.78037261410481,17.34206176843594],[-62.78750858525297,17.34984646464267],[-62.77518281633388,17.36736203133273],[-62.77648026555175,17.37449800248089],[-62.76942301116298,17.3869965293664],[-62.73050865105336,17.36461441452366]]],"type":"Polygon"}
+}

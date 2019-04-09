@@ -1,0 +1,71 @@
+{
+  "id": 421184521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-62.580116,17.166903,-62.580116,17.166903",
+    "geom:latitude":17.166903,
+    "geom:longitude":-62.580116,
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Rawlins",
+    "qs:name_adm0":"Saint Kitts and Nevis",
+    "qs:name_adm1":"Saint James Windward",
+    "qs:photos":99,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":99,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1001102,
+    "qs:woe_adm0":23424940,
+    "qs:woe_id":161940,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":161940,
+        "qs:id":1001102
+    },
+    "wof:country":"KN",
+    "wof:created":1459009413,
+    "wof:geomhash":"1352b4291befb2bb379a9cc4cb7cf99b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":421184521,
+            "region_id":85673131
+        }
+    ],
+    "wof:id":421184521,
+    "wof:lastmodified":1466635859,
+    "wof:name":"Rawlins",
+    "wof:parent_id":85673131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.580116,
+    17.166903,
+    -62.580116,
+    17.166903
+],
+  "geometry": {"coordinates":[-62.580116,17.166903],"type":"Point"}
+}

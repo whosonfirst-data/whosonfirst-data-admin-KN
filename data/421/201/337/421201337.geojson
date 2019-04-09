@@ -1,0 +1,128 @@
+{
+  "id": 421201337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.58333,17.2,-62.58333,17.2",
+    "geom:latitude":17.2,
+    "geom:longitude":-62.58333,
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0648\u0643\u0627\u0633\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "Newcastle"
+    ],
+    "name:dut_x_preferred":[
+        "Newcastle"
+    ],
+    "name:eng_x_preferred":[
+        "Newcastle"
+    ],
+    "name:fra_x_preferred":[
+        "Newcastle"
+    ],
+    "name:ger_x_preferred":[
+        "Newcastle"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05d5\u05e7\u05d0\u05e1\u05dc"
+    ],
+    "name:lit_x_preferred":[
+        "Niukaslas"
+    ],
+    "name:mac_x_preferred":[
+        "\u040a\u0443\u043a\u0430\u0441\u0430\u043b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u040a\u0443\u043a\u0430\u0441\u0430\u043b"
+    ],
+    "name:pol_x_preferred":[
+        "Newcastle"
+    ],
+    "name:por_x_preferred":[
+        "Newcastle"
+    ],
+    "name:spa_x_preferred":[
+        "Newcastle"
+    ],
+    "name:swe_x_preferred":[
+        "Newcastle"
+    ],
+    "name:unk_x_variant":[
+        "Newcastle Village"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0648\u06a9\u06cc\u0633\u0644\u060c \u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633"
+    ],
+    "qs:gn_country":"KN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3575261,
+    "qs:gn_pop":493,
+    "qs:name":"Newcastle",
+    "qs:name_adm0":"Saint Kitts and Nevis",
+    "qs:name_adm1":"Saint James Windward",
+    "qs:photos":319,
+    "qs:photos_1k":65,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":319,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":211140,
+    "qs:woe_adm0":23424940,
+    "qs:woe_id":161926,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":150,
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575261,
+        "gp:id":161926,
+        "qs:id":211140,
+        "wd:id":"Q2835379",
+        "wk:page":"Newcastle, Saint Kitts and Nevis"
+    },
+    "wof:country":"KN",
+    "wof:created":1459010069,
+    "wof:geomhash":"f697171348d46ec48af42eb081cd5d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":421201337,
+            "region_id":85673131
+        }
+    ],
+    "wof:id":421201337,
+    "wof:lastmodified":1553816387,
+    "wof:name":"Newcastle",
+    "wof:parent_id":85673131,
+    "wof:placetype":"locality",
+    "wof:population":493,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.58333,
+    17.2,
+    -62.58333,
+    17.2
+],
+  "geometry": {"coordinates":[-62.58333,17.2],"type":"Point"}
+}

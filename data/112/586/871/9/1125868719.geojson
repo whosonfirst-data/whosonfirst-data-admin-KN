@@ -1,0 +1,113 @@
+{
+  "id": 1125868719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.61667,17.16667,-62.61667,17.16667",
+    "geom:latitude":17.16667,
+    "geom:longitude":-62.61667,
+    "gn:gn_country":"KN",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":381,
+    "gn:population":381,
+    "iso:country":"KN",
+    "lbl:latitude":17.16667,
+    "lbl:longitude":-62.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Cotton Ground"
+    ],
+    "name:eng_x_preferred":[
+        "Cotton Ground"
+    ],
+    "name:fre_x_preferred":[
+        "Cotton Ground"
+    ],
+    "name:ger_x_preferred":[
+        "Cotton Ground"
+    ],
+    "name:ita_x_preferred":[
+        "Cotton Ground"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u043e\u0442\u043e\u043d \u0413\u0440\u0430\u0443\u043d\u0434"
+    ],
+    "name:pol_x_preferred":[
+        "Cotton Ground"
+    ],
+    "name:por_x_preferred":[
+        "Cotton Ground"
+    ],
+    "name:spa_x_preferred":[
+        "Cotton Ground"
+    ],
+    "name:swe_x_preferred":[
+        "Cotton Ground"
+    ],
+    "name:unk_x_variant":[
+        "Cotton Ground Village"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0679\u0646 \u06af\u0631\u0627\u0624\u0646\u0688"
+    ],
+    "qs_pg:aaroncc":"KN",
+    "qs_pg:gn_country":"KN",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":3575458,
+    "qs_pg:gn_pop":381,
+    "qs_pg:name":"Cotton Ground",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":95953,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575458,
+        "qs_pg:id":95953,
+        "wd:id":"Q3394446"
+    },
+    "wof:country":"KN",
+    "wof:created":1497294177,
+    "wof:geomhash":"17897e8c07d8a14e1b6bd08874fe61e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":1125868719,
+            "region_id":85673161
+        }
+    ],
+    "wof:id":1125868719,
+    "wof:lastmodified":1514468983,
+    "wof:name":"Cotton Ground",
+    "wof:parent_id":85673161,
+    "wof:placetype":"locality",
+    "wof:population":381,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.61667,
+    17.16667,
+    -62.61667,
+    17.16667
+],
+  "geometry": {"coordinates":[-62.61667,17.16667],"type":"Point"}
+}

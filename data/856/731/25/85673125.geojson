@@ -1,0 +1,299 @@
+{
+  "id": 85673125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001438,
+    "geom:area_square_m":16995737.58214,
+    "geom:bbox":"-62.5786192387,17.1005313169,-62.5367732407,17.1500392644",
+    "geom:latitude":17.126974,
+    "geom:longitude":-62.556908,
+    "gn:population":2568,
+    "iso:country":"KN",
+    "label:eng_x_preferred_longname":[
+        "Saint George Gingerland Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":17.127671,
+    "lbl:longitude":-62.555214,
+    "mps:latitude":17.127671,
+    "mps:longitude":-62.555214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0646\u062c\u0631\u0644\u0627\u0646\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09b0\u09cd\u099c \u0997\u09cd\u09b0\u09bf\u09a8\u09cd\u09a1\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u55ac\u6cbb\u91d1\u54f2\u862d\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Saint George Gingerland"
+    ],
+    "name:deu_x_preferred":[
+        "Saint George Gingerland"
+    ],
+    "name:dut_x_preferred":[
+        "Saint George Gingerland"
+    ],
+    "name:eng_x_preferred":[
+        "Saint George Gingerland"
+    ],
+    "name:eng_x_variant":[
+        "St George Gingerland",
+        "St. George Gingerland",
+        "Saint George Gingerland Parish"
+    ],
+    "name:fin_x_preferred":[
+        "Saint George Gingerlandin kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-George Gingerland"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-George Gingerland"
+    ],
+    "name:ger_x_preferred":[
+        "Saint George Gingerland"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b5\u03bd\u03c4 \u03a4\u03b6\u03bf\u03c1\u03c4\u03b6 \u03a4\u03b6\u03af\u03bd\u03c4\u03b6\u03b5\u03c1\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c \u0a9c\u0abf\u0a82\u0a9c\u0ab0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u091c\u0949\u0930\u094d\u091c \u091c\u093f\u0902\u091c\u0930\u0932\u0948\u0902\u0921 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint George Gingerland"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Saint George Gingerland"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30b8\u30e7\u30fc\u30b8\u30fb\u30b8\u30f3\u30b8\u30e3\u30fc\u30e9\u30f3\u30c9\u6559\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c9c\u0cbe\u0cb0\u0ccd\u0c9c\u0ccd \u0c9c\u0cbf\u0c82\u0c9c\u0cb0\u0ccd\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\uc870\uc9c0\uc9c4\uc808\ub79c\ub4dc \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentd\u017eord\u017ea D\u017eind\u017eerlandes pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ventojo Jurgio D\u017eind\u017eerlendo parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u091c\u0949\u0930\u094d\u091c \u091c\u093f\u0902\u091c\u0930\u0932\u0901\u0921 \u092a\u0945\u0930\u0940\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Saint George Gingerland Parish"
+    ],
+    "name:nld_x_preferred":[
+        "Saint George Gingerland"
+    ],
+    "name:nob_x_preferred":[
+        "Saint George Gingerland prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint George Gingerland prestegjeld"
+    ],
+    "name:pol_x_preferred":[
+        "Gingerland"
+    ],
+    "name:por_x_preferred":[
+        "Saint George Gingerland"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436-\u0414\u0436\u0438\u043d\u0434\u0436\u0435\u0440\u043b\u0430\u043d\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0da2\u0ddd\u0da2\u0dca \u0da2\u0dd2\u0db1\u0dca\u0da2\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0da9\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint George Gingerland"
+    ],
+    "name:swe_x_preferred":[
+        "Saint George Gingerland"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0b9c\u0bcb\u0bb0\u0bcd\u0b9c\u0bcd  \u0b9c\u0bbf\u0ba9\u0bcd\u0b9c\u0bb0\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c1c\u0c3e\u0c3e\u0c30\u0c4d\u0c1c\u0c4d \u0c1c\u0c3f\u0c02\u0c1c\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e08\u0e2d\u0e23\u0e4c\u0e08\u0e08\u0e34\u0e07\u0e40\u0e08\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c \u0e41\u0e1e\u0e23\u0e34\u0e0a"
+    ],
+    "name:tur_x_preferred":[
+        "Saint George Gingerland"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436-\u0414\u0436\u0438\u043d\u0434\u0436\u0435\u0440\u043b\u0430\u043d\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u062c\u0627\u0631\u062c \u062c\u0646\u062c\u0631\u0644\u06cc\u0646\u0688 \u067e\u06cc\u0631\u0634"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Saint George Gingerland"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u55ac\u6cbb\u91d1\u54f2\u862d\u5340"
+    ],
+    "ne:abbrev":"GGI",
+    "ne:adm0_a3":"KNA",
+    "ne:adm0_label":"8",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"KNA-5102",
+    "ne:adm1_code":"KNA-5102",
+    "ne:admin":"Saint Kitts and Nevis",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"KN.GG",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5102",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SC04",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Kitts and Nevis",
+    "ne:gn_a1_code":"KN.04",
+    "ne:gn_id":"3575179",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint George Gingerland",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SC04",
+    "ne:gns_id":"-1359315",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint George Gingerland",
+    "ne:gns_region":"",
+    "ne:gu_a3":"KNA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"KN-04",
+    "ne:iso_a2":"KN",
+    "ne:labelrank":"20",
+    "ne:latitude":"17.13010000000",
+    "ne:longitude":"-62.55710000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Saint George Gingerland",
+    "ne:name_alt":"",
+    "ne:name_len":23,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"GG",
+    "ne:provnum_ne":"0",
+    "ne:region":"Nevis",
+    "ne:region_cod":"KN-N",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"KNA",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346967,
+    "ne:woe_label":"Saint George Gingerland, KN, Saint Kitts and Nevis",
+    "ne:woe_name":"Saint George Gingerland",
+    "qs:a0":"Saint Kitts and Nevis",
+    "qs:a0_lc":"KN",
+    "qs:a1":"Saint George Gingerland",
+    "qs:a1_lc":"KNA-5102",
+    "qs:a1r":"Nevis",
+    "qs:a1r_lc":"KN-N",
+    "qs:adm0":"Saint Kitts and Nevis",
+    "qs:adm0_a3":"KNA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2001-05-14",
+    "statoids:area_km":"19",
+    "statoids:area_mi":"7",
+    "statoids:as_of_date":"2001-05-14",
+    "statoids:capital":"Gingerland",
+    "statoids:country":"KN",
+    "statoids:gec":"SC04",
+    "statoids:hasc":"KN.GG",
+    "statoids:iso":"04",
+    "statoids:name":"Saint George Gingerland",
+    "statoids:population":"2568",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"KN-04",
+    "wd:wordcount":438,
+    "wof:belongsto":[
+        102191575,
+        85632551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SC04",
+        "gn:id":3575179,
+        "gp:id":2346967,
+        "hasc:id":"KN.GG",
+        "iso:id":"KN-04",
+        "qs:id":1168745,
+        "unlc:id":"KN-04",
+        "wd:id":"Q1472520",
+        "wk:page":"Saint George Gingerland Parish"
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"4a64869d16b25a70b6394c43f3702be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "region_id":85673125
+        }
+    ],
+    "wof:id":85673125,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550394,
+    "wof:name":"Saint George Gingerland",
+    "wof:parent_id":85632551,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":2568,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:shortcode":"GG",
+    "wof:subdivision":"KN-04",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.57861923868688,
+    17.10053131686681,
+    -62.53677324069247,
+    17.15003926440056
+],
+  "geometry": {"coordinates":[[[-62.53695611423325,17.13839258255172],[-62.53677324069247,17.1297061226395],[-62.53844153614796,17.12099844052568],[-62.54356848929433,17.10887278964759],[-62.54759680904544,17.10464101806861],[-62.56574459463729,17.10053131686681],[-62.57861923868688,17.14549819168826],[-62.56240112211407,17.15003926440056],[-62.54877790397705,17.14549819168826],[-62.53695611423325,17.13839258255172]]],"type":"Polygon"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 421187299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.76667,17.38333,-62.76667,17.38333",
+    "geom:latitude":17.38333,
+    "geom:longitude":-62.76667,
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u6703\u5e55"
+    ],
+    "name:dut_x_preferred":[
+        "Tabernacle"
+    ],
+    "name:eng_x_preferred":[
+        "Tabernacle"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b1\u03bc\u03c0\u03b5\u03c1\u03bd\u03ad\u03b9\u03ba\u03bb"
+    ],
+    "name:pol_x_preferred":[
+        "Tabernacle"
+    ],
+    "name:spa_x_preferred":[
+        "Tabernacle"
+    ],
+    "name:swe_x_preferred":[
+        "Tabernacle"
+    ],
+    "name:unk_x_variant":[
+        "Tabernacle Village"
+    ],
+    "qs:gn_country":"KN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3575126,
+    "qs:gn_pop":0,
+    "qs:name":"Tabernacle",
+    "qs:name_adm0":"Saint Kitts and Nevis",
+    "qs:name_adm1":"Saint John Capesterre",
+    "qs:photos":368,
+    "qs:photos_1k":75,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":368,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082675,
+    "qs:woe_adm0":23424940,
+    "qs:woe_id":161951,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575126,
+        "gp:id":161951,
+        "qs:id":1082675,
+        "wd:id":"Q7673027",
+        "wk:page":"Tabernacle, Saint Kitts and Nevis"
+    },
+    "wof:country":"KN",
+    "wof:created":1459009508,
+    "wof:geomhash":"2ec353865cb0652f05508db5cbdd6d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":421187299,
+            "region_id":85673111
+        }
+    ],
+    "wof:id":421187299,
+    "wof:lastmodified":1527716252,
+    "wof:name":"Tabernacle",
+    "wof:parent_id":85673111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.76667,
+    17.38333,
+    -62.76667,
+    17.38333
+],
+  "geometry": {"coordinates":[-62.76667,17.38333],"type":"Point"}
+}

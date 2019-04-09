@@ -1,0 +1,61 @@
+{
+  "id": 1276130129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.73333,17.28333,-62.73333,17.28333",
+    "geom:latitude":17.28333,
+    "geom:longitude":-62.73333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Limekiln",
+    "gn:country_code":"KN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575322,
+    "gn:latitude":17.28333,
+    "gn:longitude":-62.73333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Limekiln",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575322
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"d733d1ed97d6270ed42b9e5629622f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276130129,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276130129,
+    "wof:lastmodified":1537048788,
+    "wof:name":"Limekiln",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.73333,
+    17.28333,
+    -62.73333,
+    17.28333
+],
+  "geometry": {"coordinates":[-62.73333,17.28333],"type":"Point"}
+}

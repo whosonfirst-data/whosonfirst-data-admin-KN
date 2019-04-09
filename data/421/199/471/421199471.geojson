@@ -1,0 +1,124 @@
+{
+  "id": 421199471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.75,17.36667,-62.75,17.36667",
+    "geom:latitude":17.36667,
+    "geom:longitude":-62.75,
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u0430\u0431\u043d\u044f\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Mansi\u00f3"
+    ],
+    "name:deu_x_preferred":[
+        "Landhaus"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0645\u0627\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Maison de ma\u00eetre"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d7\u05d5\u05d6\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Magione"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u043f\u043e\u0441\u0435\u0434\u043d\u0438\u0447\u043a\u0430 \u043a\u0443\u045c\u0430"
+    ],
+    "name:por_x_preferred":[
+        "Mans\u00e3o"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u043e\u0431\u043d\u044f\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Dvor"
+    ],
+    "name:spa_x_preferred":[
+        "Mansi\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Herrg\u00e5rd"
+    ],
+    "name:tur_x_preferred":[
+        "Kas\u0131r"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u043e\u0431\u043d\u044f\u043a"
+    ],
+    "qs:gn_country":"KN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3575300,
+    "qs:gn_pop":690,
+    "qs:name":"Mansion",
+    "qs:name_adm0":"Bonaire Saint Eustatius and Saba",
+    "qs:name_adm1":"St. Eustatius",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":193934,
+    "qs:woe_adm0":56558056,
+    "qs:woe_id":151938,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":2227,
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575300,
+        "gp:id":151938,
+        "qs:id":193934,
+        "wd:id":"Q1802963"
+    },
+    "wof:country":"KN",
+    "wof:created":1459009990,
+    "wof:geomhash":"d1b762869195ed2d4fe37503b51611b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":421199471,
+            "region_id":85673111
+        }
+    ],
+    "wof:id":421199471,
+    "wof:lastmodified":1527716410,
+    "wof:name":"Mansion",
+    "wof:parent_id":85673111,
+    "wof:placetype":"locality",
+    "wof:population":690,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.75,
+    17.36667,
+    -62.75,
+    17.36667
+],
+  "geometry": {"coordinates":[-62.75,17.36667],"type":"Point"}
+}

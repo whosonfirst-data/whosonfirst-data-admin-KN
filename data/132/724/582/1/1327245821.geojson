@@ -1,0 +1,66 @@
+{
+  "id": 1327245821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.73333,17.38333,-62.73333,17.38333",
+    "geom:latitude":17.38333,
+    "geom:longitude":-62.73333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bourryau",
+    "gn:cc2":"KN",
+    "gn:country_code":"KN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575533,
+    "gn:latitude":17.38333,
+    "gn:longitude":-62.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bourryau",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boreo",
+        "Bourryau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575533
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"bf4fe3f4603865197cfb0b1a012070f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327245821,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327245821,
+    "wof:lastmodified":1537654148,
+    "wof:name":"Bourryau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.73333,
+    17.38332999999999,
+    -62.73333,
+    17.38332999999999
+],
+  "geometry": {"coordinates":[-62.73333,17.38332999999999],"type":"Point"}
+}

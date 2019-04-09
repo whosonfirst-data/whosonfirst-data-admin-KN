@@ -1,0 +1,132 @@
+{
+  "id": 421186525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.735366,17.349819,-62.735366,17.349819",
+    "geom:latitude":17.349819,
+    "geom:longitude":-62.735366,
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u064a\u0648\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Cayon"
+    ],
+    "name:dut_x_preferred":[
+        "Cayon"
+    ],
+    "name:eng_x_preferred":[
+        "Cayon"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u06cc\u0648\u0646\u060c \u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Cayon"
+    ],
+    "name:fre_x_preferred":[
+        "Cayon"
+    ],
+    "name:ger_x_preferred":[
+        "Cayon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05d9\u05d5\u05df"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30a4\u30aa\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Kajonas"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0430\u0458\u043e\u043d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0458\u043e\u043d"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u06cc\u0648\u0646\u060c \u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Cayon"
+    ],
+    "name:por_x_preferred":[
+        "Cayon"
+    ],
+    "name:spa_x_preferred":[
+        "Cayon"
+    ],
+    "name:swe_x_preferred":[
+        "Cayon"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u06cc\u0648\u0646"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Cayon",
+    "qs:name_adm0":"Saint Kitts and Nevis",
+    "qs:name_adm1":"Saint Mary Cayon",
+    "qs:photos":195,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":195,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1072484,
+    "qs:woe_adm0":23424940,
+    "qs:woe_id":161868,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":161868,
+        "qs:id":1072484,
+        "wd:id":"Q3316336"
+    },
+    "wof:country":"KN",
+    "wof:created":1459009483,
+    "wof:geomhash":"df1562aff906bed29cebb78025e28b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":421186525,
+            "region_id":85673143
+        }
+    ],
+    "wof:id":421186525,
+    "wof:lastmodified":1527716319,
+    "wof:name":"Cayon",
+    "wof:parent_id":85673143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.735366,
+    17.349819,
+    -62.735366,
+    17.349819
+],
+  "geometry": {"coordinates":[-62.735366,17.349819],"type":"Point"}
+}

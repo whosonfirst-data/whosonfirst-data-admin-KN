@@ -1,0 +1,125 @@
+{
+  "id": 421186519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.692794,17.29828,-62.692794,17.29828",
+    "geom:latitude":17.29828,
+    "geom:longitude":-62.692794,
+    "gn:country":"KN",
+    "gn:fcode":"PPLA",
+    "gn:pop":592,
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Monkey Hill"
+    ],
+    "name:dut_x_preferred":[
+        "Monkey Hill"
+    ],
+    "name:eng_x_preferred":[
+        "Monkey Hill"
+    ],
+    "name:ger_x_preferred":[
+        "Monkey Hill"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30ad\u30fc\u30d2\u30eb"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0430\u043d\u043a\u0438 \u0425\u0438\u043b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043d\u043a\u0438 \u0425\u0438\u043b"
+    ],
+    "name:pol_x_preferred":[
+        "Monkey Hill"
+    ],
+    "name:spa_x_preferred":[
+        "Monkey Hill"
+    ],
+    "name:swe_x_preferred":[
+        "Monkey Hill"
+    ],
+    "name:unk_x_variant":[
+        "Monkey Hill Village"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u06a9\u06cc \u06c1\u0644"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Monkey Hill",
+    "qs:name_adm0":"Saint Kitts and Nevis",
+    "qs:name_adm1":"Saint Peter Basseterre",
+    "qs:photos":1791,
+    "qs:photos_1k":363,
+    "qs:photos_9k":8,
+    "qs:photos_9r":8,
+    "qs:photos_all":1791,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1072481,
+    "qs:woe_adm0":23424940,
+    "qs:woe_id":161922,
+    "src:geom":"quattroshapes",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575284,
+        "gp:id":161922,
+        "qs:id":1072481,
+        "wd:id":"Q3395174",
+        "wk:page":"Monkey Hill"
+    },
+    "wof:concordances_alt":{
+        "gp:id":12517381,
+        "qs:id":583500
+    },
+    "wof:country":"KN",
+    "wof:created":1459009483,
+    "wof:geomhash":"c7a1755826d976db8bae885277a5a88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":421186519,
+            "region_id":85673121
+        }
+    ],
+    "wof:id":421186519,
+    "wof:lastmodified":1534379374,
+    "wof:name":"Monkey Hill",
+    "wof:parent_id":85673121,
+    "wof:placetype":"locality",
+    "wof:population":592,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890422925
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.692794,
+    17.29828,
+    -62.692794,
+    17.29828
+],
+  "geometry": {"coordinates":[-62.692794,17.29828],"type":"Point"}
+}

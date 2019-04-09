@@ -1,0 +1,65 @@
+{
+  "id": 1343268093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.55814,17.11919,-62.55814,17.11919",
+    "geom:latitude":17.11919,
+    "geom:longitude":-62.55814,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Holmes Hill",
+    "gn:country_code":"KN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575356,
+    "gn:latitude":17.11919,
+    "gn:longitude":-62.55814,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Holmes Hill",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575356
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"caf2d0bfc852c004d644ec172796f423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":1343268093,
+            "region_id":85673125
+        }
+    ],
+    "wof:id":1343268093,
+    "wof:lastmodified":1537022827,
+    "wof:name":"Holmes Hill",
+    "wof:parent_id":85673125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.55814,
+    17.11919,
+    -62.55814,
+    17.11919
+],
+  "geometry": {"coordinates":[-62.55814,17.11919],"type":"Point"}
+}

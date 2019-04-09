@@ -1,0 +1,66 @@
+{
+  "id": 1209517077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.72207,17.29879,-62.72207,17.29879",
+    "geom:latitude":17.29879,
+    "geom:longitude":-62.72207,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kit Stoddart",
+    "gn:country_code":"KN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575334,
+    "gn:latitude":17.29879,
+    "gn:longitude":-62.72207,
+    "gn:modification_date":"2015-03-27",
+    "gn:name":"Kit Stoddart",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kitt Stoddarts Village",
+        "Kit Stoddarts Village",
+        "Kit Stoddart\u2019s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575334
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"f7c60580a1fd1b0280d8c23247981331",
+    "wof:hierarchy":[
+        {
+            "country_id":85632551,
+            "locality_id":1209517077
+        }
+    ],
+    "wof:id":1209517077,
+    "wof:lastmodified":1537654146,
+    "wof:name":"Kit Stoddart",
+    "wof:parent_id":85632551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.72207,
+    17.29879,
+    -62.72207,
+    17.29879
+],
+  "geometry": {"coordinates":[-62.72207,17.29879],"type":"Point"}
+}

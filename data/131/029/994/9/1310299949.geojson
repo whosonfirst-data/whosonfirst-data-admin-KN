@@ -1,0 +1,70 @@
+{
+  "id": 1310299949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.8,17.4,-62.8,17.4",
+    "geom:latitude":17.4,
+    "geom:longitude":-62.8,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cliftons",
+    "gn:cc2":"KN",
+    "gn:country_code":"KN",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575468,
+    "gn:latitude":17.4,
+    "gn:longitude":-62.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cliftons",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Clifton",
+        "Cliftons"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575468
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"f3e00bf9eb00e25d9822b80fd81ad4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":1310299949,
+            "region_id":85673135
+        }
+    ],
+    "wof:id":1310299949,
+    "wof:lastmodified":1537654147,
+    "wof:name":"Cliftons",
+    "wof:parent_id":85673135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.8,
+    17.4,
+    -62.8,
+    17.4
+],
+  "geometry": {"coordinates":[-62.8,17.4],"type":"Point"}
+}

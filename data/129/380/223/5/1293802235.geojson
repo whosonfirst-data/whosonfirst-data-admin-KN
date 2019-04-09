@@ -1,0 +1,70 @@
+{
+  "id": 1293802235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.85,17.38333,-62.85,17.38333",
+    "geom:latitude":17.38333,
+    "geom:longitude":-62.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Trants",
+    "gn:cc2":"KN",
+    "gn:country_code":"KN",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575116,
+    "gn:latitude":17.38333,
+    "gn:longitude":-62.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Trants",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trant",
+        "Trants"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575116
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"485df9ea52f41a910ebea8044ad5a2ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":1293802235,
+            "region_id":85673147
+        }
+    ],
+    "wof:id":1293802235,
+    "wof:lastmodified":1537654145,
+    "wof:name":"Trants",
+    "wof:parent_id":85673147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.85,
+    17.38332999999999,
+    -62.85,
+    17.38332999999999
+],
+  "geometry": {"coordinates":[-62.85,17.38332999999999],"type":"Point"}
+}

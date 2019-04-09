@@ -1,0 +1,102 @@
+{
+  "id": 421204467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.81667,17.31667,-62.81667,17.31667",
+    "geom:latitude":17.31667,
+    "geom:longitude":-62.81667,
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Middle Island"
+    ],
+    "name:dut_x_preferred":[
+        "Middle Island"
+    ],
+    "name:eng_x_preferred":[
+        "Middle Island"
+    ],
+    "name:ger_x_preferred":[
+        "Middle Island"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0438\u0434\u043b \u0410\u0458\u043b\u0430\u043d\u0434"
+    ],
+    "name:pol_x_preferred":[
+        "Middle Island"
+    ],
+    "name:spa_x_preferred":[
+        "Middle Island"
+    ],
+    "name:swe_x_preferred":[
+        "Middle Island"
+    ],
+    "name:unk_x_variant":[
+        "Middle Island Village"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0688\u0644 \u0622\u0626\u0644\u06cc\u0646\u0688\u060c \u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633"
+    ],
+    "qs:gn_country":"KN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3575292,
+    "qs:gn_pop":0,
+    "qs:name":"Middle Island",
+    "qs:name_adm0":"Saint Kitts and Nevis",
+    "qs:name_adm1":"Saint Thomas Middle Island",
+    "qs:photos":903,
+    "qs:photos_1k":183,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":903,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":240952,
+    "qs:woe_adm0":23424940,
+    "qs:woe_id":161920,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575292,
+        "gp:id":161920,
+        "qs:id":240952,
+        "wd:id":"Q3394074",
+        "wk:page":"Middle Island, Saint Kitts and Nevis"
+    },
+    "wof:country":"KN",
+    "wof:created":1459010187,
+    "wof:geomhash":"a4dc11d653bde5e57e29a351a4d5dd25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632551,
+            "locality_id":421204467
+        }
+    ],
+    "wof:id":421204467,
+    "wof:lastmodified":1553816390,
+    "wof:name":"Middle Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.81667,
+    17.31667,
+    -62.81667,
+    17.31667
+],
+  "geometry": {"coordinates":[-62.81667,17.31667],"type":"Point"}
+}

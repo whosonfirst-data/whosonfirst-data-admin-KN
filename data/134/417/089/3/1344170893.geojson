@@ -1,0 +1,74 @@
+{
+  "id": 1344170893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.75318,17.37956,-62.75318,17.37956",
+    "geom:latitude":17.37956,
+    "geom:longitude":-62.75318,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nicola Town",
+    "gn:country_code":"KN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3575251,
+    "gn:latitude":17.37956,
+    "gn:longitude":-62.75318,
+    "gn:modification_date":"2017-07-02",
+    "gn:name":"Nicola Town",
+    "gn:population":2059,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nichola Town"
+    ],
+    "name:und_x_variant":[
+        "Nichola Town"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575251,
+        "wk:page":"Nichola_Town"
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"1193efa06e5144a3268ce84cac8275ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":1344170893,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344170893,
+    "wof:lastmodified":1537654145,
+    "wof:name":"Nicola Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2059,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.75318000000001,
+    17.37956,
+    -62.75318000000001,
+    17.37956
+],
+  "geometry": {"coordinates":[-62.75318000000001,17.37956],"type":"Point"}
+}

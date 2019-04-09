@@ -1,0 +1,306 @@
+{
+  "id": 85673121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002972,
+    "geom:area_square_m":35097125.326173,
+    "geom:bbox":"-62.7343131619,17.2171898465,-62.6247452461,17.3206538541",
+    "geom:latitude":17.266081,
+    "geom:longitude":-62.67127,
+    "gn:population":12920,
+    "iso:country":"KN",
+    "label:eng_x_preferred_longname":[
+        "Saint George Basseterre Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":17.243303,
+    "lbl:longitude":-62.647613,
+    "mps:latitude":17.243303,
+    "mps:longitude":-62.647613,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u0627\u0644\u0642\u062f\u064a\u0633 \u062c\u0648\u0631\u062c \u0628\u0627\u0633\u062a\u064a\u0631"
+    ],
+    "name:baq_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09b0\u09cd\u099c \u09ac\u09be\u0987\u09b8\u09c7\u099f\u09be\u09b0\u09c7 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u55ac\u6cbb\u5df4\u585e\u7279\u840a\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:deu_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:dut_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:eng_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:eng_x_variant":[
+        "St George Basseterre",
+        "St. George Basseterre",
+        "Saint George Basseterre Parish"
+    ],
+    "name:eus_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:fin_x_preferred":[
+        "Saint George Basseterrein kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-George Basseterre"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-George Basseterre"
+    ],
+    "name:ger_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b5\u03bd\u03c4 \u03a4\u03b6\u03bf\u03c1\u03c4\u03b6 \u039c\u03c0\u03b1\u03c3\u03b5\u03c4\u03ad\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0a82\u0a9f \u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c \u0aac\u0abe\u0ab8\u0ac7\u0a9f\u0ac7\u0ab0 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u091c\u0949\u0930\u094d\u091c \u092c\u093e\u0938\u0947\u091f\u0947\u0930\u0947 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint George Basseterre"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Saint George Basseterre"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30b8\u30e7\u30fc\u30b8\u30fb\u30d0\u30bb\u30c6\u30fc\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c9c\u0cbe\u0cb0\u0ccd\u0c9c\u0ccd \u0cac\u0cbe\u0cb8\u0ccd\u0cb8\u0cc6\u0c9f\u0cb0\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\uc870\uc9c0\ubc14\uc2a4\ud14c\ub974 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentd\u017eord\u017ea Bastera pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ventojo Jurgio Bastero parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u091c\u0949\u0930\u094d\u091c \u092c\u0945\u0938\u0947\u091f\u0930 \u092a\u0945\u0930\u093f\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Saint George Basseterre Parish"
+    ],
+    "name:nld_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:nob_x_preferred":[
+        "Saint George Basseterre prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint George Basseterre prestegjeld"
+    ],
+    "name:pol_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:por_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436-\u0411\u0430\u0441\u0442\u0435\u0440"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0da2\u0ddd\u0da2\u0dca \u0db6\u0dc3\u0dca\u0dc3\u0dd9\u0da7\u0dd9\u0dbb\u0dda \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint George Basseterre"
+    ],
+    "name:swe_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0b9c\u0bcb\u0bb0\u0bcd\u0b9c\u0bcd  \u0baa\u0bbe\u0b9a\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd\u0b9f\u0bc6\u0bb0\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c1c\u0c3e\u0c30\u0c4d\u0c1c\u0c4d \u0c2c\u0c3e\u0c38\u0c46\u0c1f\u0c30\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e08\u0e2d\u0e23\u0e4c\u0e08\u0e1a\u0e32\u0e2a\u0e41\u0e15\u0e23\u0e4c \u0e41\u0e1e\u0e23\u0e34\u0e0a"
+    ],
+    "name:tur_x_preferred":[
+        "Saint George Basseterre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0440\u0434\u0436-\u0411\u0430\u0441\u0442\u0435\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u062c\u0627\u0631\u062c \u0628\u0627\u0633\u06cc\u062a\u06cc\u0631 \u067e\u06cc\u0631\u0634"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Saint George Basseterre"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u55ac\u6cbb\u5df4\u585e\u7279\u840a\u5340"
+    ],
+    "ne:abbrev":"GBA",
+    "ne:adm0_a3":"KNA",
+    "ne:adm0_label":"8",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"KNA-5101",
+    "ne:adm1_code":"KNA-5101",
+    "ne:admin":"Saint Kitts and Nevis",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"KN.GB",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5101",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SC03",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Kitts and Nevis",
+    "ne:gn_a1_code":"KN.03",
+    "ne:gn_id":"3575180",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint George Basseterre",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SC03",
+    "ne:gns_id":"-1359314",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint George Basseterre",
+    "ne:gns_region":"",
+    "ne:gu_a3":"KNA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"KN-03",
+    "ne:iso_a2":"KN",
+    "ne:labelrank":"20",
+    "ne:latitude":"17.28360000000",
+    "ne:longitude":"-62.68680000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Saint George Basseterre",
+    "ne:name_alt":"",
+    "ne:name_len":23,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"GB",
+    "ne:provnum_ne":"0",
+    "ne:region":"Saint Kitts",
+    "ne:region_cod":"KN-K",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"KNA",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346966,
+    "ne:woe_label":"Saint George Basseterre, KN, Saint Kitts and Nevis",
+    "ne:woe_name":"Saint George Basseterre",
+    "qs:a0":"Saint Kitts and Nevis",
+    "qs:a0_lc":"KN",
+    "qs:a1":"Saint George Basseterre",
+    "qs:a1_lc":"KNA-5101",
+    "qs:a1r":"Saint Kitts",
+    "qs:a1r_lc":"KN-K",
+    "qs:adm0":"Saint Kitts and Nevis",
+    "qs:adm0_a3":"KNA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2001-05-14",
+    "statoids:area_km":"29",
+    "statoids:area_mi":"11",
+    "statoids:as_of_date":"2001-05-14",
+    "statoids:capital":"Basseterre",
+    "statoids:country":"KN",
+    "statoids:gec":"SC03",
+    "statoids:hasc":"KN.GB",
+    "statoids:iso":"03",
+    "statoids:name":"Saint George Basseterre",
+    "statoids:population":"13220",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"KN-03",
+    "wd:wordcount":803,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SC03",
+        "gn:id":3575180,
+        "gp:id":2346966,
+        "hasc:id":"KN.GB",
+        "iso:id":"KN-03",
+        "qs:id":1114945,
+        "unlc:id":"KN-03",
+        "wd:id":"Q1540744",
+        "wk:page":"Saint George Basseterre Parish"
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"67d6263cac9390200f642c6724d6b7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "region_id":85673121
+        }
+    ],
+    "wof:id":85673121,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550394,
+    "wof:name":"Saint George Basseterre",
+    "wof:parent_id":85632551,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":13220,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:shortcode":"GB",
+    "wof:subdivision":"KN-03",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.73431316192284,
+    17.21718984653427,
+    -62.62474524609621,
+    17.32065385409214
+],
+  "geometry": {"coordinates":[[[-62.68116410134218,17.29940011142605],[-62.67813066289972,17.29222239824514],[-62.66685950376302,17.27350495059306],[-62.65046139148001,17.26561107039464],[-62.63683020714831,17.2582054717052],[-62.62482662664746,17.24184804924812],[-62.62474524609621,17.22528717766119],[-62.64704342361506,17.21718984653427],[-62.65973873565406,17.22549062769036],[-62.67048092345578,17.26316966464833],[-62.6902970036038,17.27496979422068],[-62.70335852767386,17.28912994988735],[-62.71255449129671,17.29230377789708],[-62.72380534913754,17.29169326683086],[-62.73171826258772,17.3057331867372],[-62.72912336415192,17.30897681023168],[-62.73431316192284,17.31870768071497],[-62.72782591493399,17.32065385409214],[-62.72328484222163,17.31351788294398],[-62.70966162408462,17.31092298450818],[-62.69928202944209,17.3057331867372],[-62.69019988311805,17.2985972155891],[-62.68116410134218,17.29940011142605]]],"type":"Polygon"}
+}

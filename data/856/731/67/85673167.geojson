@@ -1,0 +1,300 @@
+{
+  "id": 85673167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001248,
+    "geom:area_square_m":14733842.137924,
+    "geom:bbox":"-62.7716251253,17.2905947944,-62.7238053491,17.3310334496",
+    "geom:latitude":17.308218,
+    "geom:longitude":-62.747582,
+    "gn:population":1692,
+    "iso:country":"KN",
+    "label:eng_x_preferred_longname":[
+        "Trinity Palmetto Point Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":17.306919,
+    "lbl:longitude":-62.747126,
+    "mps:latitude":17.306919,
+    "mps:longitude":-62.747126,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u062a\u0631\u064a\u0646\u062a\u064a \u0628\u0627\u0644\u0645\u064a\u062a\u0648 \u0628\u0648\u064a\u0646\u062a"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09cd\u09b0\u09bf\u09a8\u09bf\u099f\u09bf \u09aa\u09b2\u09ae\u09cd\u09af\u09be\u099f\u09cb \u09aa\u09af\u09bc\u09c7\u09a8\u09cd\u099f \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:chi_x_preferred":[
+        "\u7279\u7acb\u5c3c\u63d0\u5e15\u7f8e\u6258\u89d2\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Trinity Palmetto Point"
+    ],
+    "name:deu_x_preferred":[
+        "Trinity Palmetto Point"
+    ],
+    "name:dut_x_preferred":[
+        "Trinity Palmetto Point"
+    ],
+    "name:eng_x_preferred":[
+        "Trinity Palmetto Point"
+    ],
+    "name:fin_x_preferred":[
+        "Trinity Palmetto Pointin kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Trinity Palmetto Point"
+    ],
+    "name:fre_x_preferred":[
+        "Trinity Palmetto Point"
+    ],
+    "name:ger_x_preferred":[
+        "Trinity Palmetto Point"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03c1\u03af\u03bd\u03b9\u03c4\u03b9 \u03a0\u03b1\u03bb\u03bc\u03ad\u03c4\u03bf \u03a0\u03cc\u03b9\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0acd\u0ab0\u0abf\u0aa8\u0abf\u0a9f\u0ac0 \u0aaa\u0abe\u0ab2\u0acd\u0aae\u0ac7\u0a9f\u0acb \u0aaa\u0acb\u0a87\u0aa8\u0acd\u0a9f \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u094d\u0930\u093f\u0928\u093f\u091f\u0940 \u092a\u0947\u0932\u092e\u0948\u091f\u094b \u092a\u0949\u0907\u0902\u091f \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Trinity Palmetto Point"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Trinity Palmetto Point"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ea\u30cb\u30c6\u30a3\u30fb\u30d1\u30eb\u30e1\u30c3\u30c8\u30fb\u30dd\u30a4\u30f3\u30c8\u6559\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0ccd\u0cb0\u0cbf\u0ca8\u0cbf\u0c9f\u0cbf \u0caa\u0cbe\u0cb2\u0ccd\u0cae\u0cc6\u0c9f\u0cca \u0caa\u0cbe\u0caf\u0cbf\u0c82\u0c9f\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub9ac\ub2c8\ud2f0\ud330\uba38\ud1a0\ud3ec\uc778\ud2b8 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Triniti Palmetopointas pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ventosios Trejyb\u0117s Palmeto Pointo parapija"
+    ],
+    "name:mac_x_preferred":[
+        "\u0422\u0440\u0438\u043d\u0438\u0442\u0438 \u041f\u0430\u043b\u043c\u0435\u0442\u043e \u041f\u043e\u0438\u043d\u0442"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u094d\u0930\u093f\u0928\u093f\u091f\u0940 \u092a\u093e\u0932\u094d\u092e\u0947\u091f\u094d\u091f\u094b \u092a\u0949\u0907\u0902\u091f \u092a\u0945\u0930\u0940\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Trinity Palmetto Point Parish"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0440\u0438\u043d\u0438\u0442\u0438 \u041f\u0430\u043b\u043c\u0435\u0442\u043e \u041f\u043e\u0438\u043d\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Trinity Palmetto Point"
+    ],
+    "name:nob_x_preferred":[
+        "Trinity Palmetto Point prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Trinity Palmetto Point prestegjeld"
+    ],
+    "name:pol_x_preferred":[
+        "Trinity Palmetto Point"
+    ],
+    "name:por_x_preferred":[
+        "Trinity Palmetto Point"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0438\u043d\u0438\u0442\u0438-\u041f\u0430\u043b\u043c\u0435\u0442\u0442\u043e-\u041f\u043e\u0439\u043d\u0442"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dca\u0da7\u0dd2 \u0db4\u0dd0\u0dbd\u0dca\u0db8\u0dd9\u0da7\u0dca\u0da7\u0ddd \u0db4\u0ddc\u0dba\u0dd2\u0db1\u0dca\u0da7\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Trinity Palmetto Point"
+    ],
+    "name:swe_x_preferred":[
+        "Trinity Palmetto Point"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bbf\u0bb0\u0bbf\u0ba9\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf  \u0baa\u0bbe\u0bb2\u0bcd\u0bae\u0bc6\u0b9f\u0bcd\u0b9f\u0bca  \u0baa\u0bbe\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c4d\u0c30\u0c3f\u0c28\u0c3f\u0c1f\u0c40 \u0c2a\u0c3e\u0c32\u0c4d\u0c2e\u0c46\u0c1f\u0c4b \u0c2a\u0c3e\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e23\u0e34\u0e19\u0e34\u0e15\u0e35\u0e41\u0e1e\u0e25\u0e40\u0e21\u0e15\u0e42\u0e15\u0e1e\u0e2d\u0e22\u0e15\u0e4c \u0e41\u0e1e\u0e23\u0e34\u0e0a"
+    ],
+    "name:tur_x_preferred":[
+        "Trinity Palmetto Point"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0422\u0440\u0456\u043d\u0456\u0442\u0456-\u041f\u0430\u043b\u043c\u0435\u0442\u043e-\u041f\u043e\u0439\u043d\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0631\u0646\u06cc\u0679\u06cc \u067e\u0627\u0644\u0645\u06cc\u0679\u0648 \u067e\u0648\u0627\u0626\u0646\u0679 \u067e\u06cc\u0631\u0634"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Trinity Palmetto Point"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u7acb\u5c3c\u63d0\u5e15\u7f8e\u6258\u89d2\u5340"
+    ],
+    "ne:abbrev":"TPP",
+    "ne:adm0_a3":"KNA",
+    "ne:adm0_label":"8",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"KNA-5112",
+    "ne:adm1_code":"KNA-5112",
+    "ne:admin":"Saint Kitts and Nevis",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"KN.TP",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5112",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SC14",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Kitts and Nevis",
+    "ne:gn_a1_code":"KN.15",
+    "ne:gn_id":"3575114",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Trinity Palmetto Point",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SC15",
+    "ne:gns_id":"-1359380",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Trinity Palmetto Point",
+    "ne:gns_region":"",
+    "ne:gu_a3":"KNA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"KN-14",
+    "ne:iso_a2":"KN",
+    "ne:labelrank":"20",
+    "ne:latitude":"17.30740000000",
+    "ne:longitude":"-62.74830000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Trinity Palmetto Point",
+    "ne:name_alt":"",
+    "ne:name_len":22,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"TP",
+    "ne:provnum_ne":"0",
+    "ne:region":"Saint Kitts",
+    "ne:region_cod":"KN-K",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"KNA",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346977,
+    "ne:woe_label":"Trinity Palmetto Point, KN, Saint Kitts and Nevis",
+    "ne:woe_name":"Trinity Palmetto Point",
+    "qs:a0":"Saint Kitts and Nevis",
+    "qs:a0_lc":"KN",
+    "qs:a1":"Trinity Palmetto Point",
+    "qs:a1_lc":"KNA-5112",
+    "qs:a1r":"Saint Kitts",
+    "qs:a1r_lc":"KN-K",
+    "qs:adm0":"Saint Kitts and Nevis",
+    "qs:adm0_a3":"KNA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2001-05-14",
+    "statoids:area_km":"15",
+    "statoids:area_mi":"6",
+    "statoids:as_of_date":"2001-05-14",
+    "statoids:capital":"Boyd's",
+    "statoids:country":"KN",
+    "statoids:gec":"SC15",
+    "statoids:hasc":"KN.TP",
+    "statoids:iso":"15",
+    "statoids:name":"Trinity Palmetto Point",
+    "statoids:population":"1692",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"KN-15",
+    "wd:wordcount":439,
+    "wof:belongsto":[
+        102191575,
+        85632551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SC15",
+        "gn:id":3575114,
+        "gp:id":2346977,
+        "hasc:id":"KN.TP",
+        "iso:id":"KN-15",
+        "qs:id":1047393,
+        "unlc:id":"KN-15",
+        "wd:id":"Q376738",
+        "wk:page":"Trinity Palmetto Point Parish"
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"8978a5163f82626a77886cc8198042aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "region_id":85673167
+        }
+    ],
+    "wof:id":85673167,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550395,
+    "wof:name":"Trinity Palmetto Point",
+    "wof:parent_id":85632551,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":1692,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:shortcode":"TP",
+    "wof:subdivision":"KN-15",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.77162512529924,
+    17.29059479441429,
+    -62.72380534913754,
+    17.33103344963405
+],
+  "geometry": {"coordinates":[[[-62.73820550957657,17.33038472457542],[-62.73431316192284,17.31870768071497],[-62.72912336415192,17.30897681023168],[-62.73171826258772,17.3057331867372],[-62.72380534913754,17.29169326683086],[-62.7440486315391,17.29059479441429],[-62.7569473945066,17.29230377789708],[-62.77162512529924,17.29801700538053],[-62.76934429440365,17.30508446257795],[-62.76610067090917,17.31351788294398],[-62.75831597470244,17.31741023149704],[-62.75442362614939,17.33103344963405],[-62.74534148072473,17.33103344963405],[-62.73820550957657,17.33038472457542]]],"type":"Polygon"}
+}

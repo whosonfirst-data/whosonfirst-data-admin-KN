@@ -1,0 +1,70 @@
+{
+  "id": 1226434961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.78333,17.38333,-62.78333,17.38333",
+    "geom:latitude":17.38333,
+    "geom:longitude":-62.78333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Geagans",
+    "gn:cc2":"KN",
+    "gn:country_code":"KN",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575405,
+    "gn:latitude":17.38333,
+    "gn:longitude":-62.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Geagans",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Geoghan",
+        "Geagans"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575405
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"9eed28d370e526b30e62422dc5ba3ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":1226434961,
+            "region_id":85673135
+        }
+    ],
+    "wof:id":1226434961,
+    "wof:lastmodified":1537654147,
+    "wof:name":"Geagans",
+    "wof:parent_id":85673135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.78333000000001,
+    17.38332999999999,
+    -62.78333000000001,
+    17.38332999999999
+],
+  "geometry": {"coordinates":[-62.78333000000001,17.38332999999999],"type":"Point"}
+}

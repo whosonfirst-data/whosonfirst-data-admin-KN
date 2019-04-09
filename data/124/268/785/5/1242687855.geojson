@@ -1,0 +1,65 @@
+{
+  "id": 1242687855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.72902,17.31607,-62.72902,17.31607",
+    "geom:latitude":17.31607,
+    "geom:longitude":-62.72902,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Saint Peter's",
+    "gn:country_code":"KN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575167,
+    "gn:latitude":17.31607,
+    "gn:longitude":-62.72902,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Saint Peter\u2019s",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575167
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"c705fdca332ec880bd0fdf380b64b701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":1242687855,
+            "region_id":85673121
+        }
+    ],
+    "wof:id":1242687855,
+    "wof:lastmodified":1536905073,
+    "wof:name":"Saint Peter's",
+    "wof:parent_id":85673121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.72902,
+    17.31607,
+    -62.72902,
+    17.31607
+],
+  "geometry": {"coordinates":[-62.72902,17.31607],"type":"Point"}
+}

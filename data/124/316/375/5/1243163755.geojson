@@ -1,0 +1,69 @@
+{
+  "id": 1243163755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.58131,17.12437,-62.58131,17.12437",
+    "geom:latitude":17.12437,
+    "geom:longitude":-62.58131,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Beaumont",
+    "gn:country_code":"KN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575544,
+    "gn:latitude":17.12437,
+    "gn:longitude":-62.58131,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Beaumont",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beaumont Village",
+        "Beaumont"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575544
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"96c41e2036d170f9c0d1382cea8f33b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":1243163755,
+            "region_id":85673139
+        }
+    ],
+    "wof:id":1243163755,
+    "wof:lastmodified":1537654148,
+    "wof:name":"Beaumont",
+    "wof:parent_id":85673139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.58131,
+    17.12437000000001,
+    -62.58131,
+    17.12437000000001
+],
+  "geometry": {"coordinates":[-62.58131,17.12437000000001],"type":"Point"}
+}

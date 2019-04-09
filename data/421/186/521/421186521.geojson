@@ -1,0 +1,108 @@
+{
+  "id": 421186521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.836303,17.347878,-62.836303,17.347878",
+    "geom:latitude":17.347878,
+    "geom:longitude":-62.836303,
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062f\u064a \u0628\u0648\u064a\u0646\u062a \u062a\u0627\u0648\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Sandy Point Town"
+    ],
+    "name:eng_x_preferred":[
+        "Sandy Point Town"
+    ],
+    "name:ger_x_preferred":[
+        "Sandy Point Town"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d3\u05d9 \u05e4\u05d5\u05d9\u05e0\u05d8"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c7\u30a3\u30fb\u30dd\u30a4\u30f3\u30c8"
+    ],
+    "name:lit_x_preferred":[
+        "Sendi Point Taunas"
+    ],
+    "name:pol_x_preferred":[
+        "Sandy Point"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044d\u043d\u0434\u0438-\u041f\u043e\u0439\u043d\u0442-\u0422\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Sandy Point Town"
+    ],
+    "name:vep_x_preferred":[
+        "Sendi Point Taun"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sandy Point Town",
+    "qs:name_adm0":"Saint Kitts and Nevis",
+    "qs:name_adm1":"Saint Anne Sandy Point",
+    "qs:photos":766,
+    "qs:photos_1k":155,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":766,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1072482,
+    "qs:woe_adm0":23424940,
+    "qs:woe_id":161944,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":279,
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":161944,
+        "qs:id":1072482,
+        "wd:id":"Q1972542"
+    },
+    "wof:country":"KN",
+    "wof:created":1459009483,
+    "wof:geomhash":"f47da22b12c5215c2937d16489289e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":421186521,
+            "region_id":85673117
+        }
+    ],
+    "wof:id":421186521,
+    "wof:lastmodified":1527716314,
+    "wof:name":"Sandy Point Town",
+    "wof:parent_id":85673117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.836303,
+    17.347878,
+    -62.836303,
+    17.347878
+],
+  "geometry": {"coordinates":[-62.836303,17.347878],"type":"Point"}
+}

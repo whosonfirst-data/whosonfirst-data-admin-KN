@@ -1,0 +1,299 @@
+{
+  "id": 85673143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000814,
+    "geom:area_square_m":9602401.637844,
+    "geom:bbox":"-62.7459902058,17.3303847246,-62.7035613913,17.3646144145",
+    "geom:latitude":17.346968,
+    "geom:longitude":-62.728415,
+    "gn:population":2994,
+    "iso:country":"KN",
+    "label:eng_x_preferred_longname":[
+        "Saint Mary Cayon Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":17.350442,
+    "lbl:longitude":-62.729861,
+    "mps:latitude":17.350442,
+    "mps:longitude":-62.729861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u064a\u0648\u0646 \u0633\u0627\u0646\u062a \u0645\u0627\u0631\u064a \u0628\u0627\u0631\u064a\u0634"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09ae\u09c7\u09b0\u09bf \u0995\u09cb\u09af\u09bc\u09be\u09a8\u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u746a\u9e97\u5361\u6c38\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:deu_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:eng_x_variant":[
+        "St Mary Cayon",
+        "St. Mary Cayon",
+        "Saint Mary Cayon Parish"
+    ],
+    "name:fin_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Mary Cayon"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-Mary Cayon"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b5\u03bd\u03c4 \u039c\u03ad\u03c1\u03b9 \u039a\u03ad\u03b9\u03bf\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aae\u0ac7\u0ab0\u0ac0 \u0a95\u0ac7\u0aaf\u0abe\u0aa8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u092e\u0948\u0930\u0940 \u0915\u0947\u092f\u094c\u0928 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint Mary Cayon"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Saint Mary Cayon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30e1\u30a2\u30ea\u30fc\u30fb\u30ab\u30e8\u30f3\u6559\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0cae\u0cc7\u0cb0\u0cbf \u0c95\u0caf\u0cbe\u0ca8\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\uba54\ub9ac\uce74\uc698 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentmer\u012b Keionas pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "Kajono \u0160ventosios Marijos parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u092e\u0947\u0930\u0940 \u0915\u0945\u092f\u0942\u0928 \u092a\u0945\u0930\u0940\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Saint Mary Cayon Parish"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Mary Cayon prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint Mary Cayon prestegjeld"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:por_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041c\u0435\u0440\u0438-\u041a\u0430\u0439\u043e\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0db8\u0dda\u0dbb\u0dd2 \u0d9a\u0dd0\u0db1\u0dca\u0dba\u0ddd\u0db1\u0dca  \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint Mary Cayon"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0bae\u0bc7\u0bb0\u0bbf  \u0b95\u0bc7\u0baf\u0bcb\u0ba9\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c2e\u0c47\u0c30\u0c40 \u0c15\u0c47\u0c2f\u0c3e\u0c28\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e41\u0e21\u0e23\u0e35\u0e04\u0e32\u0e22\u0e2d\u0e19 \u0e41\u0e1e\u0e23\u0e34\u0e0a"
+    ],
+    "name:tur_x_preferred":[
+        "Saint Mary Cayon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u041c\u0435\u0440\u0456-\u041a\u0430\u0439\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0645\u06cc\u0631\u06cc \u06a9\u0627\u06cc\u0648\u0646 \u067e\u06cc\u0631\u0634"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Saint Mary Cayon"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u746a\u9e97\u5361\u6c38\u5340"
+    ],
+    "ne:abbrev":"MCA",
+    "ne:adm0_a3":"KNA",
+    "ne:adm0_label":"8",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"KNA-5106",
+    "ne:adm1_code":"KNA-5106",
+    "ne:admin":"Saint Kitts and Nevis",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"KN.MC",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5106",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"SC08",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Kitts and Nevis",
+    "ne:gn_a1_code":"KN.08",
+    "ne:gn_id":"3575173",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint Mary Cayon",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"SC08",
+    "ne:gns_id":"-1359321",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Mary Cayon",
+    "ne:gns_region":"",
+    "ne:gu_a3":"KNA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"KN-08",
+    "ne:iso_a2":"KN",
+    "ne:labelrank":"20",
+    "ne:latitude":"17.34590000000",
+    "ne:longitude":"-62.72860000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Saint Mary Cayon",
+    "ne:name_alt":"",
+    "ne:name_len":16,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MC",
+    "ne:provnum_ne":"0",
+    "ne:region":"Saint Kitts",
+    "ne:region_cod":"KN-K",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"KNA",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2346971,
+    "ne:woe_label":"Saint Mary Cayon, KN, Saint Kitts and Nevis",
+    "ne:woe_name":"Saint Mary Cayon",
+    "qs:a0":"Saint Kitts and Nevis",
+    "qs:a0_lc":"KN",
+    "qs:a1":"Saint Mary Cayon",
+    "qs:a1_lc":"KNA-5106",
+    "qs:a1r":"Saint Kitts",
+    "qs:a1r_lc":"KN-K",
+    "qs:adm0":"Saint Kitts and Nevis",
+    "qs:adm0_a3":"KNA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2001-05-14",
+    "statoids:area_km":"15",
+    "statoids:area_mi":"6",
+    "statoids:as_of_date":"2001-05-14",
+    "statoids:capital":"Cayon",
+    "statoids:country":"KN",
+    "statoids:gec":"SC08",
+    "statoids:hasc":"KN.MC",
+    "statoids:iso":"08",
+    "statoids:name":"Saint Mary Cayon",
+    "statoids:population":"3374",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"KN-08",
+    "wd:wordcount":651,
+    "wof:belongsto":[
+        102191575,
+        85632551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"SC08",
+        "gn:id":3575173,
+        "gp:id":2346971,
+        "hasc:id":"KN.MC",
+        "iso:id":"KN-08",
+        "qs:id":231520,
+        "unlc:id":"KN-08",
+        "wd:id":"Q1538034",
+        "wk:page":"Saint Mary Cayon Parish"
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"3d0bd119f63358d357c654d1378dd933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "region_id":85673143
+        }
+    ],
+    "wof:id":85673143,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550394,
+    "wof:name":"Saint Mary Cayon",
+    "wof:parent_id":85632551,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":3374,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:shortcode":"MC",
+    "wof:subdivision":"KN-08",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.74599020578336,
+    17.33038472457542,
+    -62.70356139134509,
+    17.36461441452366
+],
+  "geometry": {"coordinates":[[[-62.70356139134509,17.34160376170428],[-62.71160779746185,17.33752069572358],[-62.72198739300376,17.33752069572358],[-62.73171826258772,17.33881814584083],[-62.73820550957657,17.33038472457542],[-62.74534148072473,17.33103344963405],[-62.74599020578336,17.34400794271244],[-62.741449133071,17.35438753735502],[-62.73755678541727,17.36087478434388],[-62.73050865105336,17.36461441452366],[-62.7199600899861,17.3585472678422],[-62.70356139134509,17.34160376170428]]],"type":"Polygon"}
+}

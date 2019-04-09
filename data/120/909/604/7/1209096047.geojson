@@ -1,0 +1,72 @@
+{
+  "id": 1209096047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.83562,17.40605,-62.83562,17.40605",
+    "geom:latitude":17.40605,
+    "geom:longitude":-62.83562,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Saint Paul's",
+    "gn:country_code":"KN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3575170,
+    "gn:latitude":17.40605,
+    "gn:longitude":-62.83562,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Saint Paul\u2019s",
+    "gn:population":2460,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saint Paul's"
+    ],
+    "name:und_x_variant":[
+        "Saint Paul\u2019s Village",
+        "Saint Paul\u2019s"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575170,
+        "wk:page":"Saint_Paul_Capisterre_Village"
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"e59480d4f8d8657dac12a6e3e0c7dd78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632551,
+            "locality_id":1209096047
+        }
+    ],
+    "wof:id":1209096047,
+    "wof:lastmodified":1537654145,
+    "wof:name":"Saint Paul's",
+    "wof:parent_id":85632551,
+    "wof:placetype":"locality",
+    "wof:population":2460,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.83562,
+    17.40605,
+    -62.83562,
+    17.40605
+],
+  "geometry": {"coordinates":[-62.83562,17.40605],"type":"Point"}
+}

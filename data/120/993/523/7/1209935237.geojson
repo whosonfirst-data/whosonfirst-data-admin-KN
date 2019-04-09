@@ -1,0 +1,72 @@
+{
+  "id": 1209935237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.85197,17.38761,-62.85197,17.38761",
+    "geom:latitude":17.38761,
+    "geom:longitude":-62.85197,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Newton Ground",
+    "gn:country_code":"KN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575254,
+    "gn:latitude":17.38761,
+    "gn:longitude":-62.85197,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Newton Ground",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Newton Ground Village",
+        "Leigh\u2019s Village",
+        "Lees",
+        "Newton Ground"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575254,
+        "wk:page":"Newton_Ground%2C_Saint_Kitts_and_Nevis"
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"f7a0235e677c5680a1cc859d55f96fc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":1209935237,
+            "region_id":85673147
+        }
+    ],
+    "wof:id":1209935237,
+    "wof:lastmodified":1537654146,
+    "wof:name":"Newton Ground",
+    "wof:parent_id":85673147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.85197,
+    17.38761,
+    -62.85197,
+    17.38761
+],
+  "geometry": {"coordinates":[-62.85197,17.38761],"type":"Point"}
+}

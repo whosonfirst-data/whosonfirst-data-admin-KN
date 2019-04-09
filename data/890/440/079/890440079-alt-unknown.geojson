@@ -1,0 +1,16 @@
+{
+  "id": 890440079,
+  "type": "Feature",
+  "properties": {"wof:repo":"whosonfirst-data-admin-kn",
+    "src:geom":"unknown",
+    "wof:geomhash":"da24ca79f9dd2f48c8bb4c7e9437407a",
+    "wof:id":890440079
+},
+  "bbox": [
+    -62.7261,
+    17.29484,
+    -62.7261,
+    17.29484
+],
+  "geometry": {"coordinates":[-62.7261,17.29484],"type":"Point"}
+}

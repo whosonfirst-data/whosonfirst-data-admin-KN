@@ -1,0 +1,96 @@
+{
+  "id": 421184519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.55392,17.170314,-62.55392,17.170314",
+    "geom:latitude":17.170314,
+    "geom:longitude":-62.55392,
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043d\u0438\u043d\u0433\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Mannings"
+    ],
+    "name:eng_x_preferred":[
+        "Mannings"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9e4\ub2dd\uc2a4"
+    ],
+    "name:spa_x_preferred":[
+        "Mannings"
+    ],
+    "name:swe_x_preferred":[
+        "Mannings"
+    ],
+    "name:zho_x_preferred":[
+        "\u842c\u5be7"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mannings",
+    "qs:name_adm0":"Saint Kitts and Nevis",
+    "qs:name_adm1":"Saint James Windward",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1001101,
+    "qs:woe_adm0":23424940,
+    "qs:woe_id":161915,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":161915,
+        "qs:id":1001101,
+        "wd:id":"Q9027453"
+    },
+    "wof:country":"KN",
+    "wof:created":1459009413,
+    "wof:geomhash":"65091c19471000d4e7dd728dad589be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":421184519,
+            "region_id":85673131
+        }
+    ],
+    "wof:id":421184519,
+    "wof:lastmodified":1527716448,
+    "wof:name":"Mannings",
+    "wof:parent_id":85673131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.55392,
+    17.170314,
+    -62.55392,
+    17.170314
+],
+  "geometry": {"coordinates":[-62.55392,17.170314],"type":"Point"}
+}

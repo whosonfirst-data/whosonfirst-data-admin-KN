@@ -1,0 +1,75 @@
+{
+  "id": 421170367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-62.71667,17.31667,-62.71667,17.31667",
+    "geom:latitude":17.31667,
+    "geom:longitude":-62.71667,
+    "iso:country":"KN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Perry"
+    ],
+    "qs:gn_country":"KN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3575224,
+    "qs:gn_pop":0,
+    "qs:name":"Parrys",
+    "qs:name_adm0":"Antigua and Barbuda",
+    "qs:name_adm1":"Saint Peter",
+    "qs:photos":197,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":197,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":488954,
+    "qs:woe_adm0":23424737,
+    "qs:woe_id":56207,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632551,
+        85673157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575224,
+        "gp:id":56207,
+        "qs:id":488954
+    },
+    "wof:country":"KN",
+    "wof:created":1459008850,
+    "wof:geomhash":"004ec4c74bfadc0472157c060b8472c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":421170367,
+            "region_id":85673157
+        }
+    ],
+    "wof:id":421170367,
+    "wof:lastmodified":1501267844,
+    "wof:name":"Parrys",
+    "wof:parent_id":85673157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.71667,
+    17.31667,
+    -62.71667,
+    17.31667
+],
+  "geometry": {"coordinates":[-62.71667,17.31667],"type":"Point"}
+}
