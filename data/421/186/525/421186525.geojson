@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Cayon"
     ],
-    "name:dut_x_preferred":[
-        "Cayon"
-    ],
     "name:eng_x_preferred":[
         "Cayon"
     ],
@@ -29,12 +26,6 @@
         "\u06a9\u0627\u06cc\u0648\u0646\u060c \u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633"
     ],
     "name:fra_x_preferred":[
-        "Cayon"
-    ],
-    "name:fre_x_preferred":[
-        "Cayon"
-    ],
-    "name:ger_x_preferred":[
         "Cayon"
     ],
     "name:heb_x_preferred":[
@@ -46,14 +37,11 @@
     "name:lit_x_preferred":[
         "Kajonas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0458\u043e\u043d"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0458\u043e\u043d"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u06cc\u0648\u0646\u060c \u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633"
+    "name:nld_x_preferred":[
+        "Cayon"
     ],
     "name:pol_x_preferred":[
         "Cayon"
@@ -113,7 +101,7 @@
         }
     ],
     "wof:id":421186525,
-    "wof:lastmodified":1527716319,
+    "wof:lastmodified":1561788464,
     "wof:name":"Cayon",
     "wof:parent_id":85673143,
     "wof:placetype":"locality",

@@ -156,9 +156,6 @@
     "name:cym_x_variant":[
         "Saint Kitts a Nevis"
     ],
-    "name:cze_x_preferred":[
-        "Svat\u00fd Kry\u0161tof a Nevis"
-    ],
     "name:cze_x_variant":[
         "Sv. Kitts a Nevis",
         "Svat\u00fd Kitts a Nevis"
@@ -593,9 +590,7 @@
     "name:ron_x_variant":[
         "Saint Kitts \u0219i Nevis",
         "Sf\u00e2ntul Kitts \u0219i Nevis",
-        "Sain Kitts \u0219i Nevis"
-    ],
-    "name:rum_x_preferred":[
+        "Sain Kitts \u0219i Nevis",
         "Sf\u00e2ntul Cristofor \u015ei Nevis"
     ],
     "name:rum_x_variant":[
@@ -809,8 +804,7 @@
         "\u8056\u514b\u91cc\u65af\u591a\u798f\u8207\u5c3c\u7dad\u65af"
     ],
     "name:zho_x_variant":[
-        "\u5723\u57fa\u8328\u548c\u5c3c\u7ef4\u65af",
-        "\u8056\u514b\u91cc\u65af\u591a\u798f\u8207\u5c3c\u7dad\u65af"
+        "\u5723\u57fa\u8328\u548c\u5c3c\u7ef4\u65af"
     ],
     "name:zho_yue_x_preferred":[
         "\u8056\u5091\u6c0f\u5c3c\u7dad\u65af"
@@ -961,7 +955,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1537303857,
+    "wof:lastmodified":1561788463,
     "wof:name":"Saint Kitts and Nevis",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
