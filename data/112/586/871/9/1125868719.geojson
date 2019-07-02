@@ -19,23 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cotton Ground"
     ],
     "name:eng_x_preferred":[
         "Cotton Ground"
     ],
-    "name:fre_x_preferred":[
-        "Cotton Ground"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cotton Ground"
     ],
     "name:ita_x_preferred":[
         "Cotton Ground"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u043e\u0442\u043e\u043d \u0413\u0440\u0430\u0443\u043d\u0434"
+    ],
+    "name:nld_x_preferred":[
+        "Cotton Ground"
     ],
     "name:pol_x_preferred":[
         "Cotton Ground"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125868719,
-    "wof:lastmodified":1514468983,
+    "wof:lastmodified":1561788465,
     "wof:name":"Cotton Ground",
     "wof:parent_id":85673161,
     "wof:placetype":"locality",
