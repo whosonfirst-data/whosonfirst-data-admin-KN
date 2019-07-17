@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09a8 \u0995\u09cd\u09af\u09be\u09aa\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09be\u09b0 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Saint John Capesterre"
+    ],
     "name:dan_x_preferred":[
         "Saint John Capisterre"
     ],
@@ -48,6 +51,9 @@
         "St. John Capesterre",
         "Saint John Capisterre",
         "Saint John Capisterre Parish"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u062c\u0627\u0646 \u06a9\u067e\u06cc\u0633\u062a\u0631"
     ],
     "name:fin_x_preferred":[
         "Saint John Capisterrein kunta"
@@ -84,6 +90,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f \u091c\u0949\u0928 \u0915\u0945\u092a\u093f\u0938\u094d\u091f\u0930 \u092a\u0945\u0930\u0940\u0936"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u043d\u0442 \u040f\u043e\u043d \u041a\u0430\u043f\u0438\u0441\u0442\u0435\u0440"
     ],
     "name:msa_x_preferred":[
         "Saint John Capisterre Parish"
@@ -264,7 +273,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561788461,
+    "wof:lastmodified":1563336993,
     "wof:name":"Saint John Capesterre",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

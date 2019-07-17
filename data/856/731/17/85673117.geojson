@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u0985\u09cd\u09af\u09be\u09a8 \u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09c0 \u09aa\u09af\u09bc\u09c7\u09a8\u09cd\u099f \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Saint Anne Sandy Point"
+    ],
     "name:dan_x_preferred":[
         "Saint Anne Sandy Point"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eus_x_preferred":[
         "Saint Anne Sandy Point"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0627\u0646 \u0633\u0646\u062f\u06cc \u067e\u0648\u06cc\u0646\u062a"
     ],
     "name:fin_x_preferred":[
         "Saint Anne Sandy Pointin kunta"
@@ -268,7 +274,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561788462,
+    "wof:lastmodified":1563336995,
     "wof:name":"Saint Anne Sandy Point",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

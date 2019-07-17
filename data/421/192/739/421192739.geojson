@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Fig Tree"
+    ],
     "name:deu_x_preferred":[
         "Fig Tree"
     ],
     "name:eng_x_preferred":[
         "Figtree"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u06af\u062a\u0631\u06cc"
     ],
     "name:fra_x_preferred":[
         "Figtree"
@@ -42,6 +48,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0641\u06af\u0679\u0631\u06cc\u060c \u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u0641\u06af\u0679\u0631\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u683c\u7279\u91cc"
     ],
     "qs:gn_country":"KN",
     "qs:gn_fcode":"PPL",
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":421192739,
-    "wof:lastmodified":1561788464,
+    "wof:lastmodified":1563337013,
     "wof:name":"Fig Tree",
     "wof:parent_id":85673139,
     "wof:placetype":"locality",

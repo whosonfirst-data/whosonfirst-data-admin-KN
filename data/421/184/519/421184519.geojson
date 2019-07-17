@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0438\u043d\u0433\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Mannings"
+    ],
     "name:eng_x_preferred":[
         "Mannings"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421184519,
-    "wof:lastmodified":1561788465,
+    "wof:lastmodified":1563337017,
     "wof:name":"Mannings",
     "wof:parent_id":85673131,
     "wof:placetype":"locality",
