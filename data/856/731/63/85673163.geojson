@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u09a5\u09ae\u09be\u09b8 \u09ae\u09bf\u09a1\u09b2 \u09a6\u09cd\u09ac\u09c0\u09aa \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Saint Thomas Middle Island"
+    ],
     "name:dan_x_preferred":[
         "Saint Thomas Middle Island"
     ],
@@ -263,7 +266,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561788463,
+    "wof:lastmodified":1563336998,
     "wof:name":"Saint Thomas Middle Island",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

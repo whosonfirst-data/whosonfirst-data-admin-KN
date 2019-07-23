@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u09aa\u09bf\u099f\u09be\u09b0 \u09ac\u09bf\u09b8\u09c7\u099f\u09b0\u09c7 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Saint Peter Basseterre"
+    ],
     "name:dan_x_preferred":[
         "Saint Peter Basseterre"
     ],
@@ -47,6 +50,9 @@
         "St Peter Basseterre",
         "St. Peter Basseterre",
         "Saint Peter Basseterre Parish"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u067e\u06cc\u062a\u0631 \u0628\u0627\u0633\u062a\u0631"
     ],
     "name:fin_x_preferred":[
         "Saint Peter Basseterrein kunta"
@@ -262,7 +268,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561788461,
+    "wof:lastmodified":1563336992,
     "wof:name":"Saint Peter Basseterre",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

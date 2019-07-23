@@ -50,6 +50,9 @@
     "name:arz_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0643\u064a\u062a\u0633 \u0648 \u0646\u064a\u06a4\u064a\u0633"
     ],
+    "name:arz_x_variant":[
+        "\u0633\u064a\u0646\u062a \u0643\u0631\u064a\u0633\u062a\u0648\u0641\u0631 \u0648 \u0646\u064a\u0641\u064a\u0633"
+    ],
     "name:ast_x_preferred":[
         "Saint Kitts y Nevis"
     ],
@@ -127,6 +130,9 @@
     "name:cdo_x_preferred":[
         "S\u00e9ng Kitts g\u00e2e\u0324ng Nevis"
     ],
+    "name:cdo_x_variant":[
+        "Saint Kitts g\u00e2e\u0324ng Nevis"
+    ],
     "name:ceb_x_preferred":[
         "Saint Kitts ug Nevis"
     ],
@@ -140,6 +146,9 @@
     "name:che_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0430, \u041d\u0435\u0432\u0438\u0441 \u0430",
         "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0430"
+    ],
+    "name:che_x_variant":[
+        "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0430 \u041d\u0435\u0432\u0438\u0441"
     ],
     "name:ckb_x_preferred":[
         "\u0633\u06d5\u06cc\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u06cc\u06a4\u06cc\u0633"
@@ -179,6 +188,9 @@
     ],
     "name:dsb_x_preferred":[
         "Saint Kitts a Nevis"
+    ],
+    "name:dty_x_preferred":[
+        "\u0938\u0947\u0928\u094d\u091f \u0915\u093f\u091f\u094d\u0938 \u0930 \u0928\u0947\u0935\u093f\u0938"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c6\u03bf\u03c1\u03bf\u03c2 \u03ba\u03b1\u03b9 \u039d\u03ad\u03b2\u03b9\u03c2"
@@ -261,6 +273,9 @@
     "name:fry_x_preferred":[
         "Sint-Kits en Nevis"
     ],
+    "name:fry_x_variant":[
+        "Sint Kits en Nevis"
+    ],
     "name:ful_x_preferred":[
         "Sent Kits e Newis"
     ],
@@ -285,11 +300,23 @@
     "name:gom_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0915\u093f\u091f\u094d\u0938 \u0906\u0923\u093f \u0928\u0947\u0935\u094d\u0939\u093f\u0938"
     ],
+    "name:grn_x_preferred":[
+        "San Crist\u00f3bal ha Nieves"
+    ],
+    "name:gsw_x_preferred":[
+        "St. Kitts und Nevis"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a82\u0a9f \u0a95\u0abf\u0a9f\u0acd\u0ab8 \u0a8f\u0a82\u0aa1 \u0aa8\u0ac7\u0ab5\u0abf\u0ab8"
     ],
+    "name:guj_x_variant":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a95\u0abf\u0a9f\u0acd\u0ab8 \u0a85\u0aa8\u0ac7 \u0aa8\u0ac7\u0ab5\u0abf\u0ab8"
+    ],
     "name:hak_x_preferred":[
         "S\u1e73n Kitts l\u00e2u Nevis"
+    ],
+    "name:hak_x_variant":[
+        "Saint Kitts l\u00e2u Nevis"
     ],
     "name:hat_x_preferred":[
         "Sen Kits ak Nevi"
@@ -327,9 +354,6 @@
     ],
     "name:hun_x_preferred":[
         "Saint Kitts \u00c9s Nevis",
-        "Saint Kitts \u00e9s Nevis"
-    ],
-    "name:hun_x_variant":[
         "Saint Kitts \u00e9s Nevis"
     ],
     "name:hye_x_preferred":[
@@ -375,6 +399,9 @@
     ],
     "name:jav_x_preferred":[
         "Santa Kitts lan N\u00e8vis"
+    ],
+    "name:jav_x_variant":[
+        "Saint Kitts lan Nevis"
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9"
@@ -425,8 +452,14 @@
     "name:lat_x_preferred":[
         "Sanctus Christophorus et Nives"
     ],
+    "name:lat_x_variant":[
+        "Sanctus Christophorus et Nevis"
+    ],
     "name:lav_x_preferred":[
         "Sentkitsa un Nevisa"
+    ],
+    "name:lfn_x_preferred":[
+        "San Kitts e Nevis"
     ],
     "name:lij_x_preferred":[
         "Saint Kitts e Nevis"
@@ -497,6 +530,15 @@
     "name:mya_x_preferred":[
         "\u1005\u102d\u1014\u1037\u103a\u1000\u1005\u103a\u1014\u103e\u1004\u1037\u103a \u1014\u102e\u1038\u1017\u1005\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:myv_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0434\u044b \u041d\u0435\u0432\u0438\u0441"
+    ],
+    "name:nah_x_preferred":[
+        "San Crist\u00f3bal \u012bhu\u0101n Nevis"
+    ],
+    "name:nan_x_preferred":[
+        "Saint Kitts kap Nevis"
+    ],
     "name:nde_x_preferred":[
         "Saint Kitts and Nevis"
     ],
@@ -521,6 +563,9 @@
     "name:nob_x_preferred":[
         "St. Kitts og Nevis"
     ],
+    "name:nob_x_variant":[
+        "Saint Kitts og Nevis"
+    ],
     "name:nor_x_preferred":[
         "Saint Kitts og Nevis"
     ],
@@ -533,11 +578,15 @@
     "name:oci_x_variant":[
         "Sant Crist\u00f2l e Nieves"
     ],
+    "name:olo_x_preferred":[
+        "Sent-Kits da Nevis"
+    ],
     "name:ori_x_preferred":[
         "\u0b38\u0b47\u0b23\u0b4d\u0b1f \u0b15\u0b3f\u0b1f\u0b38 \u0b13 \u0b28\u0b47\u0b2d\u0b3f\u0b38"
     ],
     "name:ori_x_variant":[
-        "\u0b38\u0b47\u0b23\u0b4d\u0b1f \u0b15\u0b3f\u0b1f\u0b38\u0b4d \u0b0f\u0b23\u0b4d\u0b21 \u0b28\u0b47\u0b2d\u0b3f\u0b38\u0b4d"
+        "\u0b38\u0b47\u0b23\u0b4d\u0b1f \u0b15\u0b3f\u0b1f\u0b38\u0b4d \u0b0f\u0b23\u0b4d\u0b21 \u0b28\u0b47\u0b2d\u0b3f\u0b38\u0b4d",
+        "\u0b38\u0b47\u0b23\u0b4d\u0b1f\u0b15\u0b3f\u0b1f\u0b38 \u0b13 \u0b28\u0b47\u0b2d\u0b3f\u0b38"
     ],
     "name:orm_x_preferred":[
         "Seenti Kiitsi fi Neevis"
@@ -547,6 +596,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a47\u0a02\u0a1f \u0a15\u0a3f\u0a1f\u0a38 \u0a05\u0a24\u0a47 \u0a28\u0a47\u0a35\u0a3f\u0a38"
+    ],
+    "name:pih_x_preferred":[
+        "Saint Kitts a' Nevis"
     ],
     "name:pli_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0915\u093f\u091f\u094d"
@@ -559,6 +611,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u06a9\u0679\u0633 \u062a\u06d2 \u0646\u06cc\u0648\u06cc\u0633"
+    ],
+    "name:pnb_x_variant":[
+        "\u0633\u06cc\u0646\u0679 \u06a9\u0679\u0633 \u0627\u06cc\u0646\u0688 \u0646\u06cc\u0648\u06cc\u0633"
     ],
     "name:pol_x_preferred":[
         "Saint Kitts I Nevis",
@@ -621,6 +676,9 @@
     ],
     "name:sco_x_preferred":[
         "Saunt Kitts an Nevis"
+    ],
+    "name:sgs_x_preferred":[
+        "Sent Kitsos \u0117r Nevis"
     ],
     "name:sin_x_preferred":[
         "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0d9a\u0dd2\u0da7\u0dca\u0dc3\u0dca \u0dc3\u0dc4 \u0db1\u0dd9\u0dc0\u0dd2\u0dc3\u0dca"
@@ -691,7 +749,6 @@
         "Saint Kitts och Nevis"
     ],
     "name:swe_x_variant":[
-        "Saint Kitts och Nevis",
         "St Kitts och Nevis",
         "S:t Kitts och Nevis"
     ],
@@ -703,6 +760,9 @@
     ],
     "name:tam_x_variant":[
         "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0b95\u0bbf\u0b9f\u0bcd\u0bb8\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bc6\u0bb5\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u04bb\u04d9\u043c \u041d\u0435\u0432\u0438\u0441"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c02\u0c1f\u0c4d \u0c15\u0c3f\u0c1f\u0c4d\u0c1f\u0c4d\u0c38\u0c4d \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c28\u0c46\u0c35\u0c3f\u0c38\u0c4d"
@@ -717,7 +777,8 @@
         "Saint Kitts and Nevis"
     ],
     "name:tgl_x_variant":[
-        "San Cristobal at Niyebes"
+        "San Cristobal at Niyebes",
+        "San Cristobal at Nieves"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e04\u0e34\u0e15\u0e2a\u0e4c\u0e41\u0e25\u0e30\u0e40\u0e19\u0e27\u0e34\u0e2a"
@@ -730,6 +791,9 @@
     ],
     "name:ton_x_preferred":[
         "Seini Kitisi mo Nevisi"
+    ],
+    "name:tuk_x_preferred":[
+        "Sent-Kits we Newis"
     ],
     "name:tur_x_preferred":[
         "Saint Kitts ve Nevis"
@@ -772,6 +836,12 @@
     ],
     "name:vol_x_preferred":[
         "Sankite\u00e4n e Nevise\u00e4n"
+    ],
+    "name:vol_x_variant":[
+        "Saluda-Kite\u00e4n e Nevise\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Saint Kitts ja Nevis"
     ],
     "name:war_x_preferred":[
         "Saint Kitts ngan Nevis"
@@ -955,7 +1025,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561788463,
+    "wof:lastmodified":1563337002,
     "wof:name":"Saint Kitts and Nevis",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
