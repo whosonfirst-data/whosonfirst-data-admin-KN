@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JW"
+    ],
     "lbl:latitude":17.173822,
     "lbl:longitude":-62.567864,
     "mps:latitude":17.173822,
@@ -262,16 +265,13 @@
         }
     ],
     "wof:id":85673131,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563336996,
+    "wof:lastmodified":1565725145,
     "wof:name":"Saint James Windward",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

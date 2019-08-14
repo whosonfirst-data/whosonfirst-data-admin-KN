@@ -15,6 +15,9 @@
         "1-869"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_shortcode":[
+        "KN"
+    ],
     "lbl:latitude":17.340311,
     "lbl:longitude":-62.767596,
     "mps:latitude":17.340311,
@@ -1025,7 +1028,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563337002,
+    "wof:lastmodified":1565725146,
     "wof:name":"Saint Kitts and Nevis",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

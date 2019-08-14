@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JF"
+    ],
     "lbl:latitude":17.117617,
     "lbl:longitude":-62.592114,
     "mps:latitude":17.117617,
@@ -262,16 +265,13 @@
         }
     ],
     "wof:id":85673139,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563336998,
+    "wof:lastmodified":1565725145,
     "wof:name":"Saint John Figtree",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

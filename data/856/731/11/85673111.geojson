@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CC"
+    ],
     "lbl:latitude":17.355761,
     "lbl:longitude":-62.760625,
     "mps:latitude":17.355761,
@@ -260,16 +263,13 @@
         }
     ],
     "wof:id":85673111,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563336994,
+    "wof:lastmodified":1565725145,
     "wof:name":"Christ Church Nichola Town",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

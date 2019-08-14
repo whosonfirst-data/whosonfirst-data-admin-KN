@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PP"
+    ],
     "lbl:latitude":17.391812,
     "lbl:longitude":-62.830727,
     "mps:latitude":17.391812,
@@ -267,16 +270,13 @@
         }
     ],
     "wof:id":85673147,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563336999,
+    "wof:lastmodified":1565725145,
     "wof:name":"Saint Paul Capesterre",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

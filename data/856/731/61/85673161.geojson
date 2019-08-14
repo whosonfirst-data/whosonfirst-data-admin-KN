@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TL"
+    ],
     "lbl:latitude":17.158783,
     "lbl:longitude":-62.605162,
     "mps:latitude":17.158783,
@@ -259,16 +262,13 @@
         }
     ],
     "wof:id":85673161,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563336992,
+    "wof:lastmodified":1565725145,
     "wof:name":"Saint Thomas Lowland",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

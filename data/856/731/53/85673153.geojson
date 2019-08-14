@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PL"
+    ],
     "lbl:latitude":17.134282,
     "lbl:longitude":-62.60892,
     "mps:latitude":17.134282,
@@ -259,16 +262,13 @@
         }
     ],
     "wof:id":85673153,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563336997,
+    "wof:lastmodified":1565725145,
     "wof:name":"Saint Paul Charlestown",
     "wof:parent_id":85632551,
     "wof:placetype":"region",
