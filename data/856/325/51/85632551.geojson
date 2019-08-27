@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":17.340311,
     "lbl:longitude":-62.767596,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":17.340311,
     "mps:longitude":-62.767596,
     "mz:hierarchy_label":1,
@@ -811,11 +813,8 @@
         "\u0421\u0435\u043d\u0442-\u041a\u0456\u0442\u0441 \u0456 \u041d\u0435\u0432\u0456\u0441",
         "\u0421\u0435\u043d\u0442 \u041a\u0456\u0442\u0441 \u0456 \u041d\u0435\u0432\u0456\u0441"
     ],
-    "name:und_x_preferred":[
-        "Saint Kitts in Nevis",
-        "Sankt Kitts og Nevis"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Sankt Kitts og Nevis",
         "Saint Christopher and Nevis"
     ],
     "name:urd_x_preferred":[
@@ -961,7 +960,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"1-869",
     "statoids:ds":"KN",
@@ -981,7 +980,6 @@
     "wd:longitude":-62.666667,
     "wd:population":54191,
     "wd:wordcount":3805,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191575
     ],
@@ -1006,7 +1004,7 @@
         "mzb:id":"saint-kitts-and-nevis",
         "ne:adm0_a3":"KNA",
         "nyt:id":"N54734255300510655711",
-        "qs:id":367817,
+        "qs_pg:id":367817,
         "uncrt:id":"KN",
         "wd:id":"Q763",
         "wk:page":"Saint Kitts and Nevis",
@@ -1028,7 +1026,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565725146,
+    "wof:lastmodified":1566581613,
     "wof:name":"Saint Kitts and Nevis",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

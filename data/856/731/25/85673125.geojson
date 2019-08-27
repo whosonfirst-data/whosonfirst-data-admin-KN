@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":17.127671,
     "lbl:longitude":-62.555214,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.127671,
     "mps:longitude":-62.555214,
     "mz:hierarchy_label":1,
@@ -127,7 +128,7 @@
         "Saint George Gingerland"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0b9c\u0bcb\u0bb0\u0bcd\u0b9c\u0bcd  \u0b9c\u0bbf\u0ba9\u0bcd\u0b9c\u0bb0\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0b9c\u0bcb\u0bb0\u0bcd\u0b9c\u0bcd \u0b9c\u0bbf\u0ba9\u0bcd\u0b9c\u0bb0\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c1c\u0c3e\u0c3e\u0c30\u0c4d\u0c1c\u0c4d \u0c1c\u0c3f\u0c02\u0c1c\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
@@ -222,9 +223,9 @@
     "qs:type":"Parish",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-05-14",
+    "src:population_date":"2001-05-14",
     "statoids:area_km":"19",
     "statoids:area_mi":"7",
     "statoids:as_of_date":"2001-05-14",
@@ -250,7 +251,7 @@
         "gp:id":2346967,
         "hasc:id":"KN.GG",
         "iso:id":"KN-04",
-        "qs:id":1168745,
+        "qs_pg:id":1168745,
         "unlc:id":"KN-04",
         "wd:id":"Q1472520",
         "wk:page":"Saint George Gingerland Parish"
@@ -271,11 +272,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565725145,
+    "wof:lastmodified":1566581613,
     "wof:name":"Saint George Gingerland",
     "wof:parent_id":85632551,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"parish",
     "wof:population":2568,
     "wof:population_rank":4,

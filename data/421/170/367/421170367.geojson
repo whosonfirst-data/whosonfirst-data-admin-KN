@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-62.71667,17.31667,-62.71667,17.31667",
     "geom:latitude":17.31667,
     "geom:longitude":-62.71667,
     "iso:country":"KN",
+    "lbl:bbox":"-62.73667,17.29667,-62.69667,17.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Perry"
     ],
     "qs:gn_country":"KN",
@@ -42,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3575224,
         "gp:id":56207,
-        "qs:id":488954
+        "qs_pg:id":488954
     },
     "wof:country":"KN",
     "wof:created":1459008850,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":421170367,
-    "wof:lastmodified":1501267844,
+    "wof:lastmodified":1566581620,
     "wof:name":"Parrys",
     "wof:parent_id":85673157,
     "wof:placetype":"locality",

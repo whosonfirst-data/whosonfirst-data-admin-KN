@@ -11,10 +11,14 @@
     "geom:longitude":-62.692794,
     "gn:country":"KN",
     "gn:fcode":"PPLA",
-    "gn:pop":592,
+    "gn:population":592,
     "iso:country":"KN",
+    "lbl:bbox":"-62.712794,17.27828,-62.672794,17.31828",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Monkey Hill"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Monkey Hill"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monkey Hill Village"
     ],
     "name:urd_x_preferred":[
@@ -85,13 +89,13 @@
     "wof:concordances":{
         "gn:id":3575284,
         "gp:id":161922,
-        "qs:id":1072481,
+        "qs_pg:id":1072481,
         "wd:id":"Q3395174",
         "wk:page":"Monkey Hill"
     },
     "wof:concordances_alt":{
         "gp:id":12517381,
-        "qs:id":583500
+        "qs_pg:id":583500
     },
     "wof:country":"KN",
     "wof:created":1459009483,
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421186519,
-    "wof:lastmodified":1563337015,
+    "wof:lastmodified":1566581619,
     "wof:name":"Monkey Hill",
     "wof:parent_id":85673121,
     "wof:placetype":"locality",

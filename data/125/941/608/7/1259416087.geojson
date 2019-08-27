@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Kitts",
     "iso:country":"KN",
+    "lbl:bbox":"-62.58403,17.10625,-62.54403,17.14625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Box Hill",
         "Buck Hill Village",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259416087,
-    "wof:lastmodified":1537654147,
+    "wof:lastmodified":1566581623,
     "wof:name":"Buck's Hill",
     "wof:parent_id":85673125,
     "wof:placetype":"locality",

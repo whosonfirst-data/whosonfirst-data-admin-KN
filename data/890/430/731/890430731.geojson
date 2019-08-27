@@ -11,10 +11,14 @@
     "geom:longitude":-62.81528,
     "gn:country":"KN",
     "gn:fcode":"PPLA",
-    "gn:pop":592,
+    "gn:population":592,
     "iso:country":"KN",
+    "lbl:bbox":"-62.83528,17.39297,-62.79528,17.43297",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u064a\u0628 \u0628\u0627\u064a \u062a\u0627\u0648\u0646"
     ],
@@ -51,9 +55,6 @@
     "name:swe_x_preferred":[
         "Dieppe Bay Town"
     ],
-    "name:unk_x_variant":[
-        "Dieppe Bay"
-    ],
     "name:urd_x_preferred":[
         "\u0688\u06cc\u0626\u067e \u0628\u06d2 \u0679\u0627\u0624\u0646"
     ],
@@ -75,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3575441,
         "gp:id":161947,
-        "qs:id":583502,
+        "qs_pg:id":583502,
         "wd:id":"Q1010810",
         "wk:page":"Dieppe Bay Town"
     },
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":890430731,
-    "wof:lastmodified":1563337021,
+    "wof:lastmodified":1566581621,
     "wof:name":"Dieppe Bay Town",
     "wof:parent_id":85673135,
     "wof:placetype":"locality",
