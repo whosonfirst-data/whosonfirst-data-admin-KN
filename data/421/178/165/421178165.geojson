@@ -10,8 +10,12 @@
     "geom:latitude":17.4,
     "geom:longitude":-62.78333,
     "iso:country":"KN",
+    "lbl:bbox":"-62.80333,17.38,-62.76333,17.42",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0421\u0430\u0434\u043b\u0435\u0440\u0441"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Sadlers"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saddlers\u2019 Village"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3575186,
         "gp:id":152003,
-        "qs:id":45485,
+        "qs_pg:id":45485,
         "wd:id":"Q1711657",
         "wk:page":"Saddlers"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421178165,
-    "wof:lastmodified":1563337018,
+    "wof:lastmodified":1566581620,
     "wof:name":"Saunders",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

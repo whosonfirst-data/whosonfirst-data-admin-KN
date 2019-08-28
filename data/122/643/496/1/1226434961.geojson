@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/St_Kitts",
     "iso:country":"KN",
+    "lbl:bbox":"-62.80333,17.36333,-62.76333,17.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Geoghan",
         "Geagans"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226434961,
-    "wof:lastmodified":1537654147,
+    "wof:lastmodified":1566581624,
     "wof:name":"Geagans",
     "wof:parent_id":85673135,
     "wof:placetype":"locality",

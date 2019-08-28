@@ -10,8 +10,12 @@
     "geom:latitude":17.38333,
     "geom:longitude":-62.76667,
     "iso:country":"KN",
+    "lbl:bbox":"-62.78667,17.36333,-62.74667,17.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tabernacle"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Tabernacle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tabernacle Village"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3575126,
         "gp:id":161951,
-        "qs:id":1082675,
+        "qs_pg:id":1082675,
         "wd:id":"Q7673027",
         "wk:page":"Tabernacle, Saint Kitts and Nevis"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421187299,
-    "wof:lastmodified":1563337014,
+    "wof:lastmodified":1566581618,
     "wof:name":"Tabernacle",
     "wof:parent_id":85673111,
     "wof:placetype":"locality",

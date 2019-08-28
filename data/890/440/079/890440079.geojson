@@ -11,10 +11,12 @@
     "geom:longitude":-62.724505,
     "gn:country":"KN",
     "gn:fcode":"PPLC",
-    "gn:pop":12920,
+    "gn:population":12920,
     "iso:country":"KN",
     "lbl:latitude":17.29484,
     "lbl:longitude":-62.7261,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -289,7 +291,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0441\u0442\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Basse Terre Town"
     ],
     "name:urd_x_preferred":[
@@ -437,12 +439,12 @@
     "wof:concordances":{
         "gn:id":3575551,
         "gp:id":161849,
-        "qs:id":149009,
+        "qs_pg:id":149009,
         "wd:id":"Q41295",
         "wk:page":"Basseterre"
     },
     "wof:concordances_alt":{
-        "qs:id":889705
+        "qs_pg:id":889705
     },
     "wof:country":"KN",
     "wof:created":1469052261,
@@ -456,7 +458,7 @@
         }
     ],
     "wof:id":890440079,
-    "wof:lastmodified":1563337020,
+    "wof:lastmodified":1566581621,
     "wof:name":"Basseterre",
     "wof:parent_id":85673167,
     "wof:placetype":"locality",

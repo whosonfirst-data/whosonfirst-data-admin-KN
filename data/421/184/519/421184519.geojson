@@ -10,8 +10,12 @@
     "geom:latitude":17.170314,
     "geom:longitude":-62.55392,
     "iso:country":"KN",
+    "lbl:bbox":"-62.57392,17.150314,-62.53392,17.190314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0438\u043d\u0433\u0441"
@@ -65,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161915,
-        "qs:id":1001101,
+        "qs_pg:id":1001101,
         "wd:id":"Q9027453"
     },
     "wof:country":"KN",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421184519,
-    "wof:lastmodified":1563337017,
+    "wof:lastmodified":1566581620,
     "wof:name":"Mannings",
     "wof:parent_id":85673131,
     "wof:placetype":"locality",

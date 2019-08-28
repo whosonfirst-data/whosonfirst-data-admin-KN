@@ -9,15 +9,18 @@
     "geom:bbox":"-62.61667,17.16667,-62.61667,17.16667",
     "geom:latitude":17.16667,
     "geom:longitude":-62.61667,
-    "gn:gn_country":"KN",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":381,
+    "gn:country":"KN",
+    "gn:fcode":"PPLA",
     "gn:population":381,
     "iso:country":"KN",
+    "lbl:bbox":"-62.63667,17.14667,-62.59667,17.18667",
     "lbl:latitude":17.16667,
     "lbl:longitude":-62.61667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Cotton Ground"
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Cotton Ground"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cotton Ground Village"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":95953,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125868719,
-    "wof:lastmodified":1563337023,
+    "wof:lastmodified":1566581621,
     "wof:name":"Cotton Ground",
     "wof:parent_id":85673161,
     "wof:placetype":"locality",

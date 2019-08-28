@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-62.819824,17.397739,-62.819824,17.397739",
     "geom:latitude":17.397739,
     "geom:longitude":-62.819824,
     "iso:country":"KN",
+    "lbl:bbox":"-62.839824,17.377739,-62.799824,17.417739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":161947,
-        "qs:id":1072483
+        "qs_pg:id":1072483
     },
     "wof:country":"KN",
     "wof:created":1459009483,
-    "wof:geomhash":"caffde4de03b1ea19cf4b546f5542b0d",
+    "wof:geomhash":"71cc2b5803a1feb2c9fe6c1a4ee4f334",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421186523,
-    "wof:lastmodified":1466635863,
+    "wof:lastmodified":1566581619,
     "wof:name":"St. Paul's",
     "wof:parent_id":85673147,
     "wof:placetype":"locality",

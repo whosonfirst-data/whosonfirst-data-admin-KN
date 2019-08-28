@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-62.76667,17.38333,-62.76667,17.38333",
     "geom:latitude":17.38333,
     "geom:longitude":-62.76667,
     "iso:country":"KN",
+    "lbl:bbox":"-62.78667,17.36333,-62.74667,17.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bramble"
     ],
     "qs:gn_country":"KN",
@@ -42,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3575529,
         "gp:id":56170,
-        "qs:id":1082564
+        "qs_pg:id":1082564
     },
     "wof:country":"KN",
     "wof:created":1459009504,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":421187183,
-    "wof:lastmodified":1501267844,
+    "wof:lastmodified":1566581619,
     "wof:name":"Gambles",
     "wof:parent_id":85673111,
     "wof:placetype":"locality",
