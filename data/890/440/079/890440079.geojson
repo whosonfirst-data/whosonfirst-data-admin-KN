@@ -448,6 +448,9 @@
     },
     "wof:country":"KN",
     "wof:created":1469052261,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"2be6a1c1aadbc58f760c6c317d13f309",
     "wof:hierarchy":[
         {
@@ -458,7 +461,7 @@
         }
     ],
     "wof:id":890440079,
-    "wof:lastmodified":1566581621,
+    "wof:lastmodified":1582347049,
     "wof:name":"Basseterre",
     "wof:parent_id":85673167,
     "wof:placetype":"locality",
