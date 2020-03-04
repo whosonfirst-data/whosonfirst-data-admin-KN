@@ -1012,6 +1012,10 @@
     },
     "wof:country":"KN",
     "wof:country_alpha3":"KNA",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"36822a68ea4f1626c05778f24e62484d",
     "wof:hierarchy":[
         {
@@ -1026,7 +1030,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566581613,
+    "wof:lastmodified":1583226662,
     "wof:name":"Saint Kitts and Nevis",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
