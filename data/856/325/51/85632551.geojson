@@ -989,9 +989,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Saint_Kitts_and_Nevis",
-        "digitalenvoy:country_code":[
-            659
-        ],
+        "digitalenvoy:country_code":659,
         "fb:id":"en.saint_kitts_and_nevis",
         "fifa:id":"SKN",
         "fips:code":"SC",
@@ -1033,7 +1031,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529171,
+    "wof:lastmodified":1583797377,
     "wof:name":"Saint Kitts and Nevis",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
