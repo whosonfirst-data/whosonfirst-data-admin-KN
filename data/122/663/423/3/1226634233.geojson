@@ -81,6 +81,9 @@
         "\u30c0\u30b0\u30e9\u30b9"
     ],
     "name:kor_x_preferred":[
+        "\ub354\uae00\ub77c\uc2a4"
+    ],
+    "name:kor_x_variant":[
         "\ub354\uae00\ub7ec\uc2a4"
     ],
     "name:nds_x_preferred":[
@@ -102,6 +105,9 @@
         "Douglas"
     ],
     "name:rus_x_preferred":[
+        "\u0414\u0443\u0433\u043b\u0430\u0441"
+    ],
+    "name:rus_x_variant":[
         "Douglas"
     ],
     "name:sco_x_preferred":[
@@ -128,6 +134,12 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0433\u043b\u0430\u0441"
     ],
+    "name:urd_x_preferred":[
+        "\u0688\u06af\u0644\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Douglas"
+    ],
     "name:vol_x_preferred":[
         "Douglas"
     ],
@@ -148,7 +160,7 @@
         "gn:id":3575438
     },
     "wof:country":"KN",
-    "wof:geomhash":"47c9d5eb696e235c568581375487947e",
+    "wof:geomhash":"004ec4c74bfadc0472157c060b8472c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -158,7 +170,7 @@
         }
     ],
     "wof:id":1226634233,
-    "wof:lastmodified":1566581625,
+    "wof:lastmodified":1636501339,
     "wof:name":"Douglas",
     "wof:parent_id":85673157,
     "wof:placetype":"locality",
@@ -168,10 +180,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.71666999999999,
+    -62.71667,
     17.31667,
-    -62.71666999999999,
+    -62.71667,
     17.31667
 ],
-  "geometry": {"coordinates":[-62.71666999999999,17.31667],"type":"Point"}
+  "geometry": {"coordinates":[-62.71667,17.31667],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000355,
     "geom:area_square_m":4197520.045575,
-    "geom:bbox":"-62.6263728508,17.1283277875,-62.5786192387,17.1454981917",
+    "geom:bbox":"-62.626373,17.128328,-62.578619,17.145498",
     "geom:latitude":17.135431,
     "geom:longitude":-62.606569,
     "gn:population":1538,
@@ -67,8 +67,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aaa\u0acc\u0ab2 \u0a9a\u0abe\u0ab0\u0acd\u0ab2\u0acd\u0ab8\u0a9f\u0abe\u0a89\u0aa8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8 \u05e4\u05d5\u05dc \u05e6'\u05e8\u05dc\u05e1\u05d8\u05d0\u05d5\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u092a\u0949\u0932 \u091a\u093e\u0930\u094d\u0932\u094d\u0938\u091f\u093e\u0909\u0928 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:hun_x_preferred":[
+        "Saint Paul Charlestown"
     ],
     "name:ind_x_preferred":[
         "Paroki Saint Paul Charlestown"
@@ -254,7 +260,7 @@
         "wk:page":"Saint Paul Charlestown Parish"
     },
     "wof:country":"KN",
-    "wof:geomhash":"9c8a2fc0b8553a2a2b7107112238037b",
+    "wof:geomhash":"a9ed81908b62b8dfbd1f34ff3f5d4f90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -269,7 +275,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566581612,
+    "wof:lastmodified":1636501337,
     "wof:name":"Saint Paul Charlestown",
     "wof:parent_id":85632551,
     "wof:placetype":"region",
@@ -284,10 +290,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.62637285082639,
-    17.12832778749743,
-    -62.57861923868688,
-    17.14549819168826
+    -62.626373,
+    17.128328,
+    -62.578619,
+    17.145498
 ],
-  "geometry": {"coordinates":[[[-62.62156743049246,17.12832778749743],[-62.62637285082639,17.1406924502964],[-62.59678353043552,17.1383622205401],[-62.57861923868688,17.14549819168826],[-62.5922424568239,17.13252369771055],[-62.60846057429603,17.12928007511545],[-62.62156743049246,17.12832778749743]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-62.621567,17.128328],[-62.626373,17.140692],[-62.596784,17.138362],[-62.578619,17.145498],[-62.592242,17.132524],[-62.608461,17.12928],[-62.621567,17.128328]]],"type":"Polygon"}
 }

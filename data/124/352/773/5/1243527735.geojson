@@ -42,13 +42,31 @@
         "\u041f\u0430\u043b\u043c\u0435\u0442\u043e \u041f\u043e\u0438\u043d\u0442"
     ],
     "name:pol_x_preferred":[
+        "Trinity"
+    ],
+    "name:pol_x_variant":[
         "Palmetto Point"
     ],
-    "name:swe_x_preferred":[
+    "name:por_x_preferred":[
         "Trinity"
+    ],
+    "name:swe_x_preferred":[
+        "Trinity River"
+    ],
+    "name:swe_x_variant":[
+        "Trinity"
+    ],
+    "name:tur_x_preferred":[
+        "Trinity"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0438\u043d\u0456\u0442\u0456"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u0645\u06cc\u0679\u0648 \u067e\u0648\u0627\u0626\u0646\u0679"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Trinity"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -73,7 +91,7 @@
         }
     ],
     "wof:id":1243527735,
-    "wof:lastmodified":1566581622,
+    "wof:lastmodified":1636501339,
     "wof:name":"Trinity",
     "wof:parent_id":85673163,
     "wof:placetype":"locality",

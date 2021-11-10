@@ -45,6 +45,9 @@
     "name:bel_x_variant":[
         "\u0411\u0430\u0441\u0442\u044d\u0440"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u0995\u09bf\u099f\u09b8 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09a8\u09c7\u09ad\u09bf\u09b8"
+    ],
     "name:bod_x_preferred":[
         "\u0f54\u0f0b\u0f66\u0f72\u0f0b\u0f50\u0f7a\u0f62\u0f0d"
     ],
@@ -463,7 +466,7 @@
         }
     ],
     "wof:id":890440079,
-    "wof:lastmodified":1607390893,
+    "wof:lastmodified":1636501339,
     "wof:name":"Basseterre",
     "wof:parent_id":85673167,
     "wof:placetype":"locality",

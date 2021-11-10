@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001438,
     "geom:area_square_m":16995737.58214,
-    "geom:bbox":"-62.5786192387,17.1005313169,-62.5367732407,17.1500392644",
+    "geom:bbox":"-62.578619,17.100531,-62.536773,17.150039",
     "geom:latitude":17.126974,
     "geom:longitude":-62.556908,
     "gn:population":2568,
@@ -67,8 +67,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c \u0a9c\u0abf\u0a82\u0a9c\u0ab0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8 \u05d2'\u05d5\u05e8\u05d2' \u05d2'\u05d9\u05e0\u05d2'\u05e8\u05dc\u05e0\u05d3"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u091c\u0949\u0930\u094d\u091c \u091c\u093f\u0902\u091c\u0930\u0932\u0948\u0902\u0921 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:hun_x_preferred":[
+        "Saint George Gingerland"
     ],
     "name:ind_x_preferred":[
         "Paroki Saint George Gingerland"
@@ -257,7 +263,7 @@
         "wk:page":"Saint George Gingerland Parish"
     },
     "wof:country":"KN",
-    "wof:geomhash":"4a64869d16b25a70b6394c43f3702be1",
+    "wof:geomhash":"5b708921de2bbec94c894e0886d58dc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -272,7 +278,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566581613,
+    "wof:lastmodified":1636501338,
     "wof:name":"Saint George Gingerland",
     "wof:parent_id":85632551,
     "wof:placetype":"region",
@@ -287,10 +293,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.57861923868688,
-    17.10053131686681,
-    -62.53677324069247,
-    17.15003926440056
+    -62.578619,
+    17.100531,
+    -62.536773,
+    17.150039
 ],
-  "geometry": {"coordinates":[[[-62.53695611423325,17.13839258255172],[-62.53677324069247,17.1297061226395],[-62.53844153614796,17.12099844052568],[-62.54356848929433,17.10887278964759],[-62.54759680904544,17.10464101806861],[-62.56574459463729,17.10053131686681],[-62.57861923868688,17.14549819168826],[-62.56240112211407,17.15003926440056],[-62.54877790397705,17.14549819168826],[-62.53695611423325,17.13839258255172]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-62.536956,17.138393],[-62.536773,17.129706],[-62.538442,17.120998],[-62.543568,17.108873],[-62.547597,17.104641],[-62.565745,17.100531],[-62.578619,17.145498],[-62.562401,17.150039],[-62.548778,17.145498],[-62.536956,17.138393]]],"type":"Polygon"}
 }

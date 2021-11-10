@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001525,
     "geom:area_square_m":18019721.44631,
-    "geom:bbox":"-62.6263728508,17.1383622205,-62.5786192387,17.1891287045",
+    "geom:bbox":"-62.626373,17.138362,-62.578619,17.189129",
     "geom:latitude":17.159251,
     "geom:longitude":-62.605162,
     "gn:population":1791,
@@ -67,8 +67,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aa5\u0acb\u0aae\u0ab8 \u0ab2\u0acb\u0ab2\u0ac7\u0a82\u0aa1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8 \u05ea\u05d5\u05de\u05d0\u05e1 \u05dc\u05d5\u05dc\u05e0\u05d3"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0925\u0949\u092e\u0938 \u0932\u094b\u0932\u0948\u0902\u0921 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:hun_x_preferred":[
+        "Saint Thomas Lowland"
     ],
     "name:ind_x_preferred":[
         "Paroki Saint Thomas Lowland"
@@ -254,7 +260,7 @@
         "wk:page":"Saint Thomas Lowland Parish"
     },
     "wof:country":"KN",
-    "wof:geomhash":"181d62ab345ffd1ae0c15028ab7c41cd",
+    "wof:geomhash":"ac9d9cb42b63de6ffc4f51c0891c3673",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -269,7 +275,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566581610,
+    "wof:lastmodified":1636501336,
     "wof:name":"Saint Thomas Lowland",
     "wof:parent_id":85632551,
     "wof:placetype":"region",
@@ -284,10 +290,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.62637285082639,
-    17.1383622205401,
-    -62.57861923868688,
-    17.18912870452613
+    -62.626373,
+    17.138362,
+    -62.578619,
+    17.189129
 ],
-  "geometry": {"coordinates":[[[-62.57861923868688,17.14549819168826],[-62.59678353043552,17.1383622205401],[-62.62637285082639,17.1406924502964],[-62.6186417308312,17.18280670796327],[-62.61254962436561,17.18912870452613],[-62.59548608031832,17.17728570067459],[-62.57861923868688,17.14549819168826]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-62.578619,17.145498],[-62.596784,17.138362],[-62.626373,17.140692],[-62.618642,17.182807],[-62.61255,17.189129],[-62.595486,17.177286],[-62.578619,17.145498]]],"type":"Polygon"}
 }

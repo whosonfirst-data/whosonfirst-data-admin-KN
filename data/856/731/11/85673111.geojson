@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001803,
     "geom:area_square_m":21283105.047883,
-    "geom:bbox":"-62.7875085853,17.3310334496,-62.7305086511,17.3869965294",
+    "geom:bbox":"-62.787509,17.331033,-62.730509,17.386997",
     "geom:latitude":17.356413,
     "geom:longitude":-62.761057,
     "gn:population":1801,
@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "Christ Church Nichola Town Parish"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0633\u062a \u0686\u0631\u0686 \u0646\u06cc\u06a9\u0648\u0644\u0627 \u062a\u0627\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Christ Church Nichola Town"
     ],
@@ -65,8 +68,14 @@
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab0\u0abf\u0ab8\u0acd\u0a9f \u0a9a\u0ab0\u0acd\u0a9a \u0aa8\u0abf\u0a95\u0acb\u0ab2\u0abe \u0a9f\u0abe\u0a89\u0aa8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05d9\u05e1\u05d8\u05e6'\u05e8\u05e5' \u05e0\u05d9\u05e7\u05d5\u05dc\u05d4 \u05d8\u05d0\u05d5\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u094d\u0930\u093e\u0907\u0938\u094d\u091f \u091a\u0930\u094d\u091a \u0928\u093f\u0915\u094b\u0932\u093e \u091f\u093e\u0909\u0928 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:hun_x_preferred":[
+        "Christ Church Nichola Town"
     ],
     "name:ind_x_preferred":[
         "Paroki Christ Church Nichola Town"
@@ -255,7 +264,7 @@
         "wk:page":"Christ Church Nichola Town Parish"
     },
     "wof:country":"KN",
-    "wof:geomhash":"8b7adaf7d53e945667c673209521f2c6",
+    "wof:geomhash":"b5e7fdf4fa21aa2900b001c43f58602d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -270,7 +279,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566581611,
+    "wof:lastmodified":1636501336,
     "wof:name":"Christ Church Nichola Town",
     "wof:parent_id":85632551,
     "wof:placetype":"region",
@@ -285,10 +294,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.78750858525297,
-    17.33103344963405,
-    -62.73050865105336,
-    17.3869965293664
+    -62.787509,
+    17.331033,
+    -62.730509,
+    17.386997
 ],
-  "geometry": {"coordinates":[[[-62.73050865105336,17.36461441452366],[-62.73755678541727,17.36087478434388],[-62.741449133071,17.35438753735502],[-62.74599020578336,17.34400794271244],[-62.74534148072473,17.33103344963405],[-62.75442362614939,17.33103344963405],[-62.77907516398761,17.33557452234641],[-62.78037261410481,17.34206176843594],[-62.78750858525297,17.34984646464267],[-62.77518281633388,17.36736203133273],[-62.77648026555175,17.37449800248089],[-62.76942301116298,17.3869965293664],[-62.73050865105336,17.36461441452366]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-62.730509,17.364614],[-62.737557,17.360875],[-62.741449,17.354388],[-62.74599,17.344008],[-62.745341,17.331033],[-62.754424,17.331033],[-62.779075,17.335575],[-62.780373,17.342062],[-62.787509,17.349846],[-62.775183,17.367362],[-62.77648,17.374498],[-62.769423,17.386997],[-62.730509,17.364614]]],"type":"Polygon"}
 }

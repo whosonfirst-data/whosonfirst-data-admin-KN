@@ -60,6 +60,9 @@
         "\u30e2\u30f3\u30c8\u30d4\u30ea\u30a2"
     ],
     "name:kor_x_preferred":[
+        "\ubabd\ud3a0\ub9ac\uc5d0"
+    ],
+    "name:kor_x_variant":[
         "\ubaac\ud2b8\ud544\ub9ac\uc5b4"
     ],
     "name:kur_x_preferred":[
@@ -98,6 +101,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u0679\u067e\u06cc\u0644\u06cc\u0626\u0631"
     ],
+    "name:vie_x_preferred":[
+        "Montpelier"
+    ],
     "name:zho_x_preferred":[
         "\u8499\u5f7c\u5229\u57c3"
     ],
@@ -110,7 +116,7 @@
         "gn:id":3575283
     },
     "wof:country":"KN",
-    "wof:geomhash":"dbe7b821ce175133e2cd8a5de832c237",
+    "wof:geomhash":"e515a1a62d1653ae758c663b16afb185",
     "wof:hierarchy":[
         {
             "country_id":85632551,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1209609485,
-    "wof:lastmodified":1566581615,
+    "wof:lastmodified":1636501338,
     "wof:name":"Montpelier",
     "wof:parent_id":85632551,
     "wof:placetype":"locality",
@@ -129,9 +135,9 @@
 },
   "bbox": [
     -62.58333,
-    17.11667000000001,
+    17.11667,
     -62.58333,
-    17.11667000000001
+    17.11667
 ],
-  "geometry": {"coordinates":[-62.58333,17.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-62.58333,17.11667],"type":"Point"}
 }

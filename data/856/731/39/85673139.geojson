@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001445,
     "geom:area_square_m":17077711.201885,
-    "geom:bbox":"-62.6215674305,17.1005313169,-62.5657445946,17.1454981917",
+    "geom:bbox":"-62.621567,17.100531,-62.565745,17.145498",
     "geom:latitude":17.118354,
     "geom:longitude":-62.591691,
     "gn:population":2009,
@@ -67,8 +67,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a9c\u0acd\u0ab9\u0acb\u0aa8 \u0aab\u0abf\u0a97\u0a9f\u0acd\u0ab0\u0ac0 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8 \u05d2'\u05d5\u05df \u05e4\u05d9\u05d2\u05d8\u05e8\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u091c\u0949\u0928 \u092b\u093f\u0917\u091f\u094d\u0930\u0940 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:hun_x_preferred":[
+        "Saint John Figtree"
     ],
     "name:ind_x_preferred":[
         "Paroki Saint John Figtree"
@@ -257,7 +263,7 @@
         "wk:page":"Saint John Figtree Parish"
     },
     "wof:country":"KN",
-    "wof:geomhash":"88901e59d5b16c4cadd7e99ef112d086",
+    "wof:geomhash":"3e1039b43099569d02ed37a50705d896",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -272,7 +278,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566581612,
+    "wof:lastmodified":1636501337,
     "wof:name":"Saint John Figtree",
     "wof:parent_id":85632551,
     "wof:placetype":"region",
@@ -287,10 +293,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -62.62156743049246,
-    17.10053131686681,
-    -62.56574459463729,
-    17.14549819168826
+    -62.621567,
+    17.100531,
+    -62.565745,
+    17.145498
 ],
-  "geometry": {"coordinates":[[[-62.56574459463729,17.10053131686681],[-62.61217200353508,17.10415273655957],[-62.62156743049246,17.12832778749743],[-62.60846057429603,17.12928007511545],[-62.5922424568239,17.13252369771055],[-62.57861923868688,17.14549819168826],[-62.56574459463729,17.10053131686681]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-62.565745,17.100531],[-62.612172,17.104153],[-62.621567,17.128328],[-62.608461,17.12928],[-62.592242,17.132524],[-62.578619,17.145498],[-62.565745,17.100531]]],"type":"Polygon"}
 }
