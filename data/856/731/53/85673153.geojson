@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u09aa\u09b2 \u099a\u09be\u09b0\u09cd\u09b2\u09b8\u09b8\u09cd\u099f\u09be\u0993\u09af\u09bc\u09be\u09b0 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09aa\u09b2 \u099a\u09be\u09b0\u09cd\u09b2\u09b8\u099f\u09be\u0989\u09a8 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
+    ],
     "name:ceb_x_preferred":[
         "Saint Paul Charlestown"
     ],
@@ -64,6 +67,9 @@
     "name:fra_x_preferred":[
         "Saint-Paul Charlestown"
     ],
+    "name:frr_x_preferred":[
+        "Saint Paul Charlestown"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aaa\u0acc\u0ab2 \u0a9a\u0abe\u0ab0\u0acd\u0ab2\u0acd\u0ab8\u0a9f\u0abe\u0a89\u0aa8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -91,6 +97,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\ud3f4\ucc30\uc2a4\ud0c0\uc6b4 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\ud3f4\ucc30\uc2a4\ud0c0\uc6b4\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentpola \u010c\u0101rlstaunas pagasts"
     ],
@@ -108,6 +117,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Paul Charlestown prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Paul Charlestown"
     ],
     "name:nor_x_preferred":[
         "Saint Paul Charlestown prestegjeld"
@@ -132,6 +144,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0baa\u0bbe\u0bb2\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd\u0ba8\u0b95\u0bb0\u0bae\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0baa\u0bbe\u0bb2\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0bb2\u0bb8\u0bcd\u0ba8\u0b95\u0bb0\u0bae\u0bcd \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c2a\u0c3e\u0c32\u0c4d \u0c1a\u0c3e\u0c30\u0c4d\u0c32\u0c46\u0c38\u0c4d\u200c\u0c1f\u0c4c\u0c28\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
@@ -275,7 +290,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501337,
+    "wof:lastmodified":1690938195,
     "wof:name":"Saint Paul Charlestown",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

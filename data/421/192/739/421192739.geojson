@@ -32,6 +32,12 @@
     "name:fra_x_preferred":[
         "Figtree"
     ],
+    "name:ita_x_preferred":[
+        "Figtree"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a3\u30b0\u30c4\u30ea\u30fc"
+    ],
     "name:mkd_x_preferred":[
         "\u0424\u0438\u0433\u0442\u0440\u0438"
     ],
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421192739,
-    "wof:lastmodified":1566581618,
+    "wof:lastmodified":1690938196,
     "wof:name":"Fig Tree",
     "wof:parent_id":85673139,
     "wof:placetype":"locality",

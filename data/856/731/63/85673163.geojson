@@ -65,6 +65,9 @@
     "name:fra_x_preferred":[
         "Saint-Thomas Middle Island"
     ],
+    "name:frr_x_preferred":[
+        "Saint Thomas Middle Island"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aa5\u0acb\u0aae\u0ab8 \u0aae\u0abf\u0aa1\u0ab2 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Thomas Middle Island prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Thomas Middle Island"
     ],
     "name:nor_x_preferred":[
         "Saint Thomas Middle Island prestegjeld"
@@ -276,7 +282,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501338,
+    "wof:lastmodified":1690938195,
     "wof:name":"Saint Thomas Middle Island",
     "wof:parent_id":85632551,
     "wof:placetype":"region",
