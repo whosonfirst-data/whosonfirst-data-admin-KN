@@ -64,6 +64,9 @@
     "name:fra_x_preferred":[
         "Saint-James Windward"
     ],
+    "name:frr_x_preferred":[
+        "Saint James Windward"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a9c\u0ac7\u0aae\u0acd\u0ab8 \u0ab5\u0abf\u0aa8\u0acd\u0aa1\u0ab5\u0ab0\u0acd\u0aa1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -91,6 +94,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\uc81c\uc784\uc2a4\uc708\ub4dc\uc6cc\ub4dc \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\uc81c\uc784\uc2a4\uc708\ub4dc\uc6cc\ub4dc\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentd\u017eeimsa Vindvorda pagasts"
     ],
@@ -108,6 +114,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint James Windward prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint James Windward"
     ],
     "name:nor_x_preferred":[
         "Saint James Windward prestegjeld"
@@ -278,7 +287,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501337,
+    "wof:lastmodified":1690938194,
     "wof:name":"Saint James Windward",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

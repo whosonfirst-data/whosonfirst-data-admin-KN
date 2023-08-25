@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Boyds"
     ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30a4\u30ba"
+    ],
     "name:nld_x_preferred":[
         "Boyds"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890455321,
-    "wof:lastmodified":1566581621,
+    "wof:lastmodified":1690938200,
     "wof:name":"Boyd\u2019s",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

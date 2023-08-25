@@ -64,6 +64,9 @@
     "name:fra_x_preferred":[
         "Saint-George Gingerland"
     ],
+    "name:frr_x_preferred":[
+        "Saint George Gingerland"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c \u0a9c\u0abf\u0a82\u0a9c\u0ab0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -91,6 +94,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\uc870\uc9c0\uc9c4\uc808\ub79c\ub4dc \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\uc870\uc9c0\uc9c4\uc808\ub79c\ub4dc\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentd\u017eord\u017ea D\u017eind\u017eerlandes pagasts"
     ],
@@ -111,6 +117,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint George Gingerland prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint George Gingerland"
     ],
     "name:nor_x_preferred":[
         "Saint George Gingerland prestegjeld"
@@ -156,6 +165,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u55ac\u6cbb\u91d1\u54f2\u862d\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u4e54\u6cbb\u91d1\u6770\u5170\u533a"
     ],
     "ne:abbrev":"GGI",
     "ne:adm0_a3":"KNA",
@@ -278,7 +290,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501338,
+    "wof:lastmodified":1690938196,
     "wof:name":"Saint George Gingerland",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

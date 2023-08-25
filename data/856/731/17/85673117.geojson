@@ -67,6 +67,9 @@
     "name:fra_x_preferred":[
         "Saint-Anne Sandy Point"
     ],
+    "name:frr_x_preferred":[
+        "Saint Anne Sandy Point"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a8f\u0aa8 \u0ab8\u0ac7\u0aa8\u0acd\u0aa1\u0ac0 \u0aaa\u0acb\u0a87\u0aa8\u0acd\u0a9f \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -114,6 +117,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Anne Sandy Point prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Anne Sandy Point"
     ],
     "name:nor_x_preferred":[
         "Saint Anne Sandy Point prestegjeld"
@@ -281,7 +287,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501337,
+    "wof:lastmodified":1690938194,
     "wof:name":"Saint Anne Sandy Point",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

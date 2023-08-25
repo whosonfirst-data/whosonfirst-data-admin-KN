@@ -64,6 +64,9 @@
     "name:fra_x_preferred":[
         "Saint-Mary Cayon"
     ],
+    "name:frr_x_preferred":[
+        "Saint Mary Cayon"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aae\u0ac7\u0ab0\u0ac0 \u0a95\u0ac7\u0aaf\u0abe\u0aa8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -91,6 +94,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\uba54\ub9ac\uce74\uc698 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\uba54\ub9ac\uce74\uc698\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentmer\u012b Keionas pagasts"
     ],
@@ -108,6 +114,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Mary Cayon prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Mary Cayon"
     ],
     "name:nor_x_preferred":[
         "Saint Mary Cayon prestegjeld"
@@ -275,7 +284,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501337,
+    "wof:lastmodified":1690938194,
     "wof:name":"Saint Mary Cayon",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

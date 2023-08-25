@@ -17,14 +17,23 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Challengers"
+    ],
     "name:eng_x_preferred":[
         "Challengers"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30ec\u30f3\u30b8\u30e3\u30fc\u30ba"
     ],
     "name:nld_x_preferred":[
         "Challengers"
     ],
     "name:und_x_variant":[
         "Challengers Village"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u4f26\u6770\u65af"
     ],
     "qs:gn_country":"KN",
     "qs:gn_fcode":"PPL",
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":421181065,
-    "wof:lastmodified":1566581619,
+    "wof:lastmodified":1690938198,
     "wof:name":"Challengers",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

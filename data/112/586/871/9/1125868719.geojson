@@ -40,6 +40,9 @@
     "name:ita_x_preferred":[
         "Cotton Ground"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30c3\u30c8\u30f3\u30fb\u30b0\u30e9\u30a6\u30f3\u30c9"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0442\u043e\u043d \u0413\u0440\u0430\u0443\u043d\u0434"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125868719,
-    "wof:lastmodified":1566581621,
+    "wof:lastmodified":1690938200,
     "wof:name":"Cotton Ground",
     "wof:parent_id":85673161,
     "wof:placetype":"locality",

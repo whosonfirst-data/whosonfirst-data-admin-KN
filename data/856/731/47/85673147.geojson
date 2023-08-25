@@ -65,6 +65,9 @@
     "name:fra_x_preferred":[
         "Saint-Paul Capisterre"
     ],
+    "name:frr_x_preferred":[
+        "Saint Paul Capisterre"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aaa\u0acc\u0ab2 \u0a95\u0ac5\u0aaa\u0abf\u0ab8\u0acd\u0a9f\u0ac7\u0ab0\u0ac7 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
     ],
@@ -92,6 +95,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\ud3f4\uce74\ud53c\uc2a4\ud14c\ub974 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\ud3f4\uce74\ud53c\uc2a4\ud14c\ub974\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentpola Kaspitera pagasts"
     ],
@@ -109,6 +115,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Paul Capisterre prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Paul Capisterre"
     ],
     "name:nor_x_preferred":[
         "Saint Paul Capisterre prestegjeld"
@@ -280,7 +289,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501338,
+    "wof:lastmodified":1690938195,
     "wof:name":"Saint Paul Capesterre",
     "wof:parent_id":85632551,
     "wof:placetype":"region",
