@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022881,
-    "geom:area_square_m":270175348.202695,
+    "geom:area_square_m":270175266.411718,
     "geom:bbox":"-62.867943,17.092028,-62.542027,17.41625",
     "geom:latitude":17.270286,
     "geom:longitude":-62.704037,
@@ -15,6 +15,9 @@
         "1-869"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "KN"
     ],
@@ -1119,7 +1122,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"1-869",
     "statoids:ds":"KN",
     "statoids:fifa":"SKN",
@@ -1176,7 +1180,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"52a07a2f72fea6b39307683de939916f",
+    "wof:geomhash":"450711240376d97caa7beb117d50d56a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1190,12 +1194,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938196,
+    "wof:lastmodified":1694639532,
     "wof:name":"Saint Kitts and Nevis",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":54191,
-    "wof:population_rank":8,
+    "wof:population":52834,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-kn",
     "wof:shortcode":"KN",
     "wof:superseded_by":[],
