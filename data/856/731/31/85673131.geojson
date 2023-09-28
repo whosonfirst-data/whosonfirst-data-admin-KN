@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00276,
-    "geom:area_square_m":32601587.128541,
+    "geom:area_square_m":32601350.863699,
     "geom:bbox":"-62.61255,17.138393,-62.536956,17.202948",
     "geom:latitude":17.174367,
     "geom:longitude":-62.570441,
@@ -265,14 +265,16 @@
         "gn:id":3575177,
         "gp:id":2346968,
         "hasc:id":"KN.JW",
+        "iso:code":"KN-05",
         "iso:id":"KN-05",
         "qs_pg:id":1168746,
         "unlc:id":"KN-05",
         "wd:id":"Q1342139",
         "wk:page":"Saint James Windward Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
-    "wof:geomhash":"fb74ae6c696857fc807c3816e4b65752",
+    "wof:geomhash":"beed89840012409786b6eaa9dfd73d70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -287,7 +289,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938194,
+    "wof:lastmodified":1695884882,
     "wof:name":"Saint James Windward",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

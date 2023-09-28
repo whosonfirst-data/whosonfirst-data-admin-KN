@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002972,
-    "geom:area_square_m":35097125.326173,
+    "geom:area_square_m":35096737.286703,
     "geom:bbox":"-62.734313,17.21719,-62.624745,17.320654",
     "geom:latitude":17.266081,
     "geom:longitude":-62.67127,
@@ -271,14 +271,16 @@
         "gn:id":3575180,
         "gp:id":2346966,
         "hasc:id":"KN.GB",
+        "iso:code":"KN-03",
         "iso:id":"KN-03",
         "qs_pg:id":1114945,
         "unlc:id":"KN-03",
         "wd:id":"Q1540744",
         "wk:page":"Saint George Basseterre Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
-    "wof:geomhash":"648b15ef913c44f5c789236599afbf73",
+    "wof:geomhash":"b87daf78a3a22f9b64dac94619758bc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -293,7 +295,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938194,
+    "wof:lastmodified":1695884882,
     "wof:name":"Saint George Basseterre",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

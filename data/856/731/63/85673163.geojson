@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002522,
-    "geom:area_square_m":29770553.088664,
+    "geom:area_square_m":29770100.214311,
     "geom:bbox":"-62.831614,17.298017,-62.754424,17.366713",
     "geom:latitude":17.330263,
     "geom:longitude":-62.793756,
@@ -260,14 +260,16 @@
         "gn:id":3575164,
         "gp:id":2346976,
         "hasc:id":"KN.TM",
+        "iso:code":"KN-13",
         "iso:id":"KN-13",
         "qs_pg:id":1047392,
         "unlc:id":"KN-13",
         "wd:id":"Q1752101",
         "wk:page":"Saint Thomas Middle Island Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
-    "wof:geomhash":"1d7124339581451d8a3d849b96465747",
+    "wof:geomhash":"40f49ab6e323222f189fa3a054b54a33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -282,7 +284,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938195,
+    "wof:lastmodified":1695884883,
     "wof:name":"Saint Thomas Middle Island",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

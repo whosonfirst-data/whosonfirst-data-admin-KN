@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001438,
-    "geom:area_square_m":16995737.58214,
+    "geom:area_square_m":16995793.41957,
     "geom:bbox":"-62.578619,17.100531,-62.536773,17.150039",
     "geom:latitude":17.126974,
     "geom:longitude":-62.556908,
@@ -268,14 +268,16 @@
         "gn:id":3575179,
         "gp:id":2346967,
         "hasc:id":"KN.GG",
+        "iso:code":"KN-04",
         "iso:id":"KN-04",
         "qs_pg:id":1168745,
         "unlc:id":"KN-04",
         "wd:id":"Q1472520",
         "wk:page":"Saint George Gingerland Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
-    "wof:geomhash":"5b708921de2bbec94c894e0886d58dc5",
+    "wof:geomhash":"45752892c806922814773a0c4c23acb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -290,7 +292,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938196,
+    "wof:lastmodified":1695884882,
     "wof:name":"Saint George Gingerland",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

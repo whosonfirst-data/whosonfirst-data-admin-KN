@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001406,
-    "geom:area_square_m":16597761.474866,
+    "geom:area_square_m":16597539.000724,
     "geom:bbox":"-62.861073,17.330146,-62.807619,17.382283",
     "geom:latitude":17.359219,
     "geom:longitude":-62.836575,
@@ -265,14 +265,16 @@
         "gn:id":3575183,
         "gp:id":2346965,
         "hasc:id":"KN.AS",
+        "iso:code":"KN-02",
         "iso:id":"KN-02",
         "qs_pg:id":1311700,
         "unlc:id":"KN-02",
         "wd:id":"Q1473654",
         "wk:page":"Saint Anne Sandy Point Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
-    "wof:geomhash":"eece9c7a1d4088ab5f0b57222c76ff65",
+    "wof:geomhash":"7f78265d69f98d1ee07e9718d3e4cd5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -287,7 +289,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938194,
+    "wof:lastmodified":1695884882,
     "wof:name":"Saint Anne Sandy Point",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

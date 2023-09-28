@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001445,
-    "geom:area_square_m":17077711.201885,
+    "geom:area_square_m":17077550.444729,
     "geom:bbox":"-62.621567,17.100531,-62.565745,17.145498",
     "geom:latitude":17.118354,
     "geom:longitude":-62.591691,
@@ -265,14 +265,16 @@
         "gn:id":3575175,
         "gp:id":2346970,
         "hasc:id":"KN.JF",
+        "iso:code":"KN-07",
         "iso:id":"KN-07",
         "qs_pg:id":231519,
         "unlc:id":"KN-07",
         "wd:id":"Q657318",
         "wk:page":"Saint John Figtree Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
-    "wof:geomhash":"3e1039b43099569d02ed37a50705d896",
+    "wof:geomhash":"3f8d518989be2298f5ee9a41332b6451",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -287,7 +289,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938195,
+    "wof:lastmodified":1695884882,
     "wof:name":"Saint John Figtree",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

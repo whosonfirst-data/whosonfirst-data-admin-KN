@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000814,
-    "geom:area_square_m":9602401.637844,
+    "geom:area_square_m":9602278.595957,
     "geom:bbox":"-62.74599,17.330385,-62.703561,17.364614",
     "geom:latitude":17.346968,
     "geom:longitude":-62.728415,
@@ -262,14 +262,16 @@
         "gn:id":3575173,
         "gp:id":2346971,
         "hasc:id":"KN.MC",
+        "iso:code":"KN-08",
         "iso:id":"KN-08",
         "qs_pg:id":231520,
         "unlc:id":"KN-08",
         "wd:id":"Q1538034",
         "wk:page":"Saint Mary Cayon Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
-    "wof:geomhash":"2f2c79d9ee4990a14e7b957ac2ec9dc8",
+    "wof:geomhash":"646af7230ee23b83f80111ccf4ba874e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -284,7 +286,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938194,
+    "wof:lastmodified":1695884882,
     "wof:name":"Saint Mary Cayon",
     "wof:parent_id":85632551,
     "wof:placetype":"region",
