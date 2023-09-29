@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001806,
-    "geom:area_square_m":21313849.916433,
+    "geom:area_square_m":21314095.888016,
     "geom:bbox":"-62.822336,17.349846,-62.769423,17.415839",
     "geom:latitude":17.382957,
     "geom:longitude":-62.797126,
@@ -265,13 +265,15 @@
         "gn:id":3575176,
         "gp:id":2346969,
         "hasc:id":"KN.JC",
+        "iso:code":"KN-06",
         "iso:id":"KN-06",
         "qs_pg:id":1168747,
         "wd:id":"Q668498",
         "wk:page":"Saint John Capisterre Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
-    "wof:geomhash":"8f2e79815857f848d0fd949e12b5b997",
+    "wof:geomhash":"bd1074c847f9ab3198dbb9c4921e1b29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -286,7 +288,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938193,
+    "wof:lastmodified":1695884882,
     "wof:name":"Saint John Capesterre",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

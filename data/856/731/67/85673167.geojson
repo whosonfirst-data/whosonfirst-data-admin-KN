@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001248,
-    "geom:area_square_m":14733842.137924,
+    "geom:area_square_m":14733793.548592,
     "geom:bbox":"-62.771625,17.290595,-62.723805,17.331033",
     "geom:latitude":17.308218,
     "geom:longitude":-62.747582,
@@ -263,14 +263,16 @@
         "gn:id":3575114,
         "gp:id":2346977,
         "hasc:id":"KN.TP",
+        "iso:code":"KN-15",
         "iso:id":"KN-15",
         "qs_pg:id":1047393,
         "unlc:id":"KN-15",
         "wd:id":"Q376738",
         "wk:page":"Trinity Palmetto Point Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
-    "wof:geomhash":"1b9b9a7b7104753d9b542beef870b4b8",
+    "wof:geomhash":"36571da8fe309a9cd89e36f7209bd7cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -285,7 +287,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938193,
+    "wof:lastmodified":1695884882,
     "wof:name":"Trinity Palmetto Point",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

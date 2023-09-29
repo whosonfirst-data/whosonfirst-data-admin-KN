@@ -1160,6 +1160,7 @@
         "gp:id":23424940,
         "hasc:id":"KN",
         "ioc:id":"SKN",
+        "iso:code":"KN",
         "itu:id":"KNA",
         "loc:id":"n81008539",
         "m49:code":"659",
@@ -1174,6 +1175,7 @@
         "wk:page":"Saint Kitts and Nevis",
         "wmo:id":"AT"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
     "wof:country_alpha3":"KNA",
     "wof:geom_alt":[
@@ -1194,7 +1196,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639532,
+    "wof:lastmodified":1695881189,
     "wof:name":"Saint Kitts and Nevis",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

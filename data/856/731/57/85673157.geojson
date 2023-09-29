@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001276,
-    "geom:area_square_m":15058607.519539,
+    "geom:area_square_m":15058703.537527,
     "geom:bbox":"-62.738206,17.298597,-62.681164,17.341604",
     "geom:latitude":17.322198,
     "geom:longitude":-62.709222,
@@ -262,14 +262,16 @@
         "gn:id":3575168,
         "gp:id":2346974,
         "hasc:id":"KN.PB",
+        "iso:code":"KN-11",
         "iso:id":"KN-11",
         "qs_pg:id":235637,
         "unlc:id":"KN-11",
         "wd:id":"Q1725609",
         "wk:page":"Saint Peter Basseterre Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
-    "wof:geomhash":"5892d4390275a8feb026047544895ad5",
+    "wof:geomhash":"d398c36b2c317881a15f50364f84d8cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -284,7 +286,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938193,
+    "wof:lastmodified":1695884882,
     "wof:name":"Saint Peter Basseterre",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

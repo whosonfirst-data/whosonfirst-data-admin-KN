@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000355,
-    "geom:area_square_m":4197520.045575,
+    "geom:area_square_m":4197358.577369,
     "geom:bbox":"-62.626373,17.128328,-62.578619,17.145498",
     "geom:latitude":17.135431,
     "geom:longitude":-62.606569,
@@ -268,14 +268,16 @@
         "gn:id":3575171,
         "gp:id":2346973,
         "hasc:id":"KN.PL",
+        "iso:code":"KN-10",
         "iso:id":"KN-10",
         "qs_pg:id":1311699,
         "unlc:id":"KN-10",
         "wd:id":"Q1752127",
         "wk:page":"Saint Paul Charlestown Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
-    "wof:geomhash":"a9ed81908b62b8dfbd1f34ff3f5d4f90",
+    "wof:geomhash":"19428360202ca708a267bc89b30d39cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -290,7 +292,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938195,
+    "wof:lastmodified":1695884882,
     "wof:name":"Saint Paul Charlestown",
     "wof:parent_id":85632551,
     "wof:placetype":"region",

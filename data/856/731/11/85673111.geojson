@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001803,
-    "geom:area_square_m":21283105.047883,
+    "geom:area_square_m":21283229.421724,
     "geom:bbox":"-62.787509,17.331033,-62.730509,17.386997",
     "geom:latitude":17.356413,
     "geom:longitude":-62.761057,
@@ -263,14 +263,16 @@
         "gn:id":3575476,
         "gp:id":2346964,
         "hasc:id":"KN.CC",
+        "iso:code":"KN-01",
         "iso:id":"KN-01",
         "qs_pg:id":232241,
         "unlc:id":"KN-01",
         "wd:id":"Q176164",
         "wk:page":"Christ Church Nichola Town Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KN",
-    "wof:geomhash":"b5e7fdf4fa21aa2900b001c43f58602d",
+    "wof:geomhash":"be007a09ac723bdd6d469f4d757fecf8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -285,7 +287,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690938193,
+    "wof:lastmodified":1695884882,
     "wof:name":"Christ Church Nichola Town",
     "wof:parent_id":85632551,
     "wof:placetype":"region",
